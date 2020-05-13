@@ -9,12 +9,3 @@ Hugtakalíkan Mannvirkjaskrár
    mannvirki.rst
    notkunareining.rst
    rekstrareining.rst
-
-
-
-Indices and tables
-==================
-
-* :ref:`genindex`
-* :ref:`modindex`
-* :ref:`search`
