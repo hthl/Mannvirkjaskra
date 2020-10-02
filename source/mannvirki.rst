@@ -1,7 +1,9 @@
 Mannvirki
 ==========
 
-Hugtakið mannvirki [#]_ er skilgreint í 51. tölul. 1.2.1. gr. byggingarreglugerðar á eftirfarandi hátt:
+Mannvirki er hverskonar jarðföst manngerð framkvæmd. 
+
+Nánar skilgreint [#]_ í 51. tölul. 1.2.1. gr. byggingarreglugerðar á eftirfarandi hátt:
 
 .. admonition:: Skilgreining
     :class: skilgreining
@@ -17,11 +19,9 @@ Hugtakið mannvirki [#]_ er skilgreint í 51. tölul. 1.2.1. gr. byggingarreglug
 Eigindi mannvirkis
 -------------------
 
-Mannvirkisnúmer
+Mannvirkisnúmer er auðkenni mannvirkis, heiltala með birtingarformið MV-000000.
 
 Vensl mannvirkis
 --------------------
 
-Rekstareining
-
-    
+Mannvirki samanstendur af Mannvirkishlutum
