@@ -6,5 +6,10 @@ Hugtakalíkan Mannvirkjaskrár
    :caption: Hugtök:
 
    mannvirki.rst
-   notkunareining.rst
+   mannvirkishluti.rst
+   bygging.rst
+   byggingarafangi.rst
+   flotur.rst
    rekstrareining.rst
+   notkunareining.rst
+ 
