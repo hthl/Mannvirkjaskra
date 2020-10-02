@@ -10,10 +10,13 @@ Hugtakalíkan Mannvirkjaskrár
    
    mannvirkishluti.rst
    
+   bygging.rst
+   
+   byggingarafangi.rst
+   
    flotur.rst
    
    rekstrareining.rst
-
+   
    notkunareining.rst
-   
-   
+ 
