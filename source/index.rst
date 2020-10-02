@@ -10,6 +10,8 @@ Hugtakalíkan Mannvirkjaskrár
    
    mannvirkishluti.rst
    
+   flotur.rst
+   
    rekstrareining.rst
 
    notkunareining.rst
