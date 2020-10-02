@@ -7,7 +7,11 @@ Hugtakalíkan Mannvirkjaskrár
    :caption: Hugtök:
 
    mannvirki.rst
+   
+   mannvirkishluti.rst
+   
+   rekstrareining.rst
 
    notkunareining.rst
    
-   rekstrareining.rst
+   
