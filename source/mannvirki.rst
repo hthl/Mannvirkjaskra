@@ -8,6 +8,8 @@ Mannvirki
 
 **Mannvirki er hverskonar jarðföst manngerð framkvæmd.**
 
+.. |br| raw:: html
+
 |br|
 qwer
     
