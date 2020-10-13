@@ -1,22 +1,6 @@
 Mannvirki 
-.. image:: img/mannvirki.svg 
-  :width: 100
-  :alt: Mannvirki
-  :align: left
 ==========
 
-.. image:: img/mannvirki.svg 
-  :width: 100
-  :alt: Mannvirki
-  :align: left
-
-Mannvirki er hverskonar jarðföst manngerð framkvæmd. 
-
-|
-|
-|
-
-Nánar skilgreint [#]_ í 51. tölul. 1.2.1. gr. byggingarreglugerðar á eftirfarandi hátt:
 
 .. admonition:: Skilgreining
     :class: skilgreining
