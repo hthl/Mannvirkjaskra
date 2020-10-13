@@ -1,8 +1,6 @@
 Mannvirki 
 ==========
 
-.. line-block::
-
 .. image:: img/mannvirki.svg 
   :width: 100
   :alt: Mannvirki
