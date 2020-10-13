@@ -1,13 +1,11 @@
 Mannvirki 
 ==========
-.. compound::
+
   .. image:: img/mannvirki.svg 
     :width: 100
     :alt: Mannvirki
     :align: left
-  
   **Mannvirki er hverskonar jarðföst manngerð framkvæmd.**
-
  
 qwer
     
