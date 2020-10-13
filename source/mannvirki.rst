@@ -8,10 +8,11 @@ Mannvirki
 
 **Mannvirki er hverskonar jarðföst manngerð framkvæmd.**
 
-.. qwer ::
-  **Mannvirki er hverskonar jarðföst manngerð framkvæmd.**
-  ---asdf
-
+asdf
+  qwer
+    asdf
+    
+    
 Nánar skilgreint [#]_ í 51. tölul. 1.2.1. gr. byggingarreglugerðar á eftirfarandi hátt:
 
 .. admonition:: Skilgreining
