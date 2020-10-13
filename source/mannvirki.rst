@@ -16,11 +16,6 @@ Nánar skilgreint [#]_ í 51. tölul. 1.2.1. gr. byggingarreglugerðar á eftirf
 .. _`[Mannvirki] HMS`: http://www.mannvirkjastofnun.is/byggingar/spurningar-og-svor-um-byggingamal/hvad-er-mannvirki/
 
 
-Myndræn framsetning
--------------------
-.. image:: img/mannvirki.svg
-
-
 Eigindi mannvirkis
 -------------------
 
@@ -30,3 +25,5 @@ Vensl mannvirkis
 --------------------
 
 Mannvirki samanstendur af Mannvirkishlutum
+
+.. image:: img/mannvirki.svg
