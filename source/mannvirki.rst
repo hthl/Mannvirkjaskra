@@ -18,7 +18,7 @@ Nánar skilgreint [#]_ í 51. tölul. 1.2.1. gr. byggingarreglugerðar á eftirf
 
 Myndræn framsetning
 -------------------
-.. image:: images/mannvirki.svg
+.. image:: img/mannvirki.svg
 
 
 Eigindi mannvirkis
