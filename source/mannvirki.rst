@@ -2,9 +2,9 @@ Mannvirki
 ==========
 
 .. image:: img/mannvirki.svg 
-  :width: 100
+  :scale: 200 %
   :alt: Mannvirki
-  :align: right
+  :align: left
 
 Mannvirki er hverskonar jarðföst manngerð framkvæmd. 
 
