@@ -1,6 +1,10 @@
 Mannvirki
 ==========
 
+.. image:: img/mannvirki_mannvirkishluti.svg 
+  :width: 100
+  :alt: Mannvirki
+
 Mannvirki er hverskonar jarðföst manngerð framkvæmd. 
 
 Nánar skilgreint [#]_ í 51. tölul. 1.2.1. gr. byggingarreglugerðar á eftirfarandi hátt:
@@ -26,6 +30,6 @@ Vensl mannvirkis
 
 Mannvirki samanstendur af Mannvirkishlutum
 
-.. image:: img/mannvirki.svg 
+.. image:: img/mannvirki_mannvirkishluti.svg 
   :width: 200
   :alt: Vensl mannvirkis og mannvirkishluta
