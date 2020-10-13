@@ -12,7 +12,7 @@ Mannvirki
 
    <br>
     
-    asdf
+asdf
     
 Nánar skilgreint [#]_ í 51. tölul. 1.2.1. gr. byggingarreglugerðar á eftirfarandi hátt:
 
