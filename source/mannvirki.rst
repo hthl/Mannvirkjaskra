@@ -6,6 +6,7 @@ Mannvirki
   :alt: Mannvirki
   :align: left
 **Mannvirki er hverskonar jarðföst manngerð framkvæmd.**
+:raw-html:`<br />`
  
   qwer
     
