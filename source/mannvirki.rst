@@ -1,6 +1,6 @@
 Mannvirki 
 ==========
-.. image:: img/mannvirki.svg 
+.. figure:: img/mannvirki.svg 
   :width: 100
   :alt: Mannvirki
   :align: left
