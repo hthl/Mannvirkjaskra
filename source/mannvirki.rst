@@ -27,5 +27,5 @@ Vensl mannvirkis
 Mannvirki samanstendur af Mannvirkishlutum
 
 .. image:: img/mannvirki.svg 
-  :width: 400
+  :width: 200
   :alt: Vensl mannvirkis og mannvirkishluta
