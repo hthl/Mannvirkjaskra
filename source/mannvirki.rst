@@ -8,9 +8,7 @@ Mannvirki
 
 Mannvirki er hverskonar jarðföst manngerð framkvæmd. 
 
-..
-
-Nánar skilgreint [#]_ í 51. tölul. 1.2.1. gr. byggingarreglugerðar á eftirfarandi hátt:
+|Nánar skilgreint [#]_ í 51. tölul. 1.2.1. gr. byggingarreglugerðar á eftirfarandi hátt:
 
 .. admonition:: Skilgreining
     :class: skilgreining
