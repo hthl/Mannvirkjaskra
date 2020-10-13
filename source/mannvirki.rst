@@ -1,7 +1,7 @@
 Mannvirki
 ==========
 
-.. image:: img/mannvirki_mannvirkishluti.svg 
+.. image:: img/mannvirki.svg 
   :width: 100
   :alt: Mannvirki
 
