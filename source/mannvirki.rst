@@ -4,6 +4,7 @@ Mannvirki
 .. image:: img/mannvirki.svg 
   :width: 100
   :alt: Mannvirki
+  :align: right
 
 Mannvirki er hverskonar jarðföst manngerð framkvæmd. 
 
