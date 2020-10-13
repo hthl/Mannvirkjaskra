@@ -2,7 +2,7 @@ Mannvirki
 ==========
 
 .. image:: img/mannvirki.svg 
-  :scale: 300 %
+  :scale: 400 %
   :alt: Mannvirki
   :align: left
 
