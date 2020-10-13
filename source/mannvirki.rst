@@ -1,4 +1,8 @@
-Mannvirki
+Mannvirki 
+.. image:: img/mannvirki.svg 
+  :width: 100
+  :alt: Mannvirki
+  :align: left
 ==========
 
 .. image:: img/mannvirki.svg 
