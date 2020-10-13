@@ -8,9 +8,9 @@ Mannvirki
 
 **Mannvirki er hverskonar jarðföst manngerð framkvæmd.**
 
-.. |br| raw:: html
-
-   <br>
+.. raw:: html
+  
+  <br/>
     
 asdf
     
