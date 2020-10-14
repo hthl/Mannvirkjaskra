@@ -24,17 +24,21 @@ Nánar skilgreint [#]_ í 51. tölul. 1.2.1. gr. byggingarreglugerðar á eftirf
 
 .. _`[Mannvirki] HMS`: http://www.mannvirkjastofnun.is/byggingar/spurningar-og-svor-um-byggingamal/hvad-er-mannvirki/
 
+Hlutverk 
+---------
+Mannvirki tengir saman mannvirkishluta í eitt mannvirki. Með því fæst andlag sem geymir samhengi og sögu mannvirkisins, leyfir skráningu mannvirkja sem nær yfir margar landeignir með skýrum eignamörkum og gerir kleyft að draga saman samtölur úr mannvirkishlutum.
 
-Eigindi mannvirkis
--------------------
+
+Eigindi 
+-------
 
 .. csv-table:: 
    :header: "Heiti", "Skilgreining", "Skýring", "Tækniheiti", "Stuttheiti",  "Gagnatýpa", "Uppruni", "Birtingarform"
 
    "**Mannvirkisnúmer**", "Mannvirkisnúmer er upplýsingalaust einkvæmt auðkenni mannvirkis", "", "MannvirkiNr", "MVNR",  "pósitív heiltala í hækkandi röð", "Framkallað gildi", "MV-000000"
    
-Vensl mannvirkis
---------------------
+Vensl 
+-----
 
 Mannvirki samanstendur af Mannvirkishlutum
 
