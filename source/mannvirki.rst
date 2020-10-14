@@ -28,12 +28,10 @@ Nánar skilgreint [#]_ í 51. tölul. 1.2.1. gr. byggingarreglugerðar á eftirf
 Eigindi mannvirkis
 -------------------
 
-*Mannvirkisnúmer* er auðkenni mannvirkis, heiltala með birtingarformið MV-000000.
-  
-.. csv-table:: Eigindi
+.. csv-table:: *Eigindi*
    :header: "Heiti", "Skilgreining", "Skýring", "Tækniheiti", "Stuttheiti",  "Gagnatýpa", "Uppruni", "Birtingarform"
 
-   "Mannvirkisnúmer", "Mannvirkisnúmer er upplýsingalaust einkvæmt auðkenni mannvirkis", "", "MannvirkiNr", "MVNR",  "pósitív heiltala í hækkandi röð", "Framkallað gildi", "MV-000000"
+   "*Mannvirkisnúmer*", "Mannvirkisnúmer er upplýsingalaust einkvæmt auðkenni mannvirkis", "", "MannvirkiNr", "MVNR",  "pósitív heiltala í hækkandi röð", "Framkallað gildi", "MV-000000"
    
 Vensl mannvirkis
 --------------------
