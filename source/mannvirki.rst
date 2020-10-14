@@ -28,10 +28,13 @@ Nánar skilgreint [#]_ í 51. tölul. 1.2.1. gr. byggingarreglugerðar á eftirf
 Eigindi mannvirkis
 -------------------
 
-* *Mannvirkisnúmer* 
-  er auðkenni mannvirkis 
-  heiltala með birtingarformið MV-000000.
+*Mannvirkisnúmer* er auðkenni mannvirkis, heiltala með birtingarformið MV-000000.
+  
+.. csv-table:: a title
+   :header: "Eigindi", "Lýsing", "Gagnatýpa", "Birtingarform"
 
+   "Mannvirkisnúmer", "auðkenni mannvirkis", "heiltala", "MV-000000"
+   
 Vensl mannvirkis
 --------------------
 
