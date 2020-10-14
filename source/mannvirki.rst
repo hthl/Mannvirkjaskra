@@ -33,7 +33,7 @@ Eigindi mannvirkis
 .. csv-table:: Eigindi
    :header: "Heiti", "Skilgreining", "Tækniheiti", "Stuttheiti",  "Gagnatýpa", "Uppruni", "Birtingarform"
 
-   "Mannvirkisnúmer", "Mannvirkisnúmer er auðkenni mannvirkis", "MannvirkiNr", "MVNR",  "heiltala", "Framkallað gildi", "MV-000000"
+   "Mannvirkisnúmer", "Mannvirkisnúmer er upplýsingalaust auðkenni mannvirkis", "MannvirkiNr", "MVNR",  "pósitív heiltala í hækkandi röð", "Framkallað gildi", "MV-000000"
    
 Vensl mannvirkis
 --------------------
