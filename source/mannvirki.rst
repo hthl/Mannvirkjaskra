@@ -31,9 +31,9 @@ Eigindi mannvirkis
 *Mannvirkisnúmer* er auðkenni mannvirkis, heiltala með birtingarformið MV-000000.
   
 .. csv-table:: a title
-   :header: "Eigindi", "Lýsing", "Gagnatýpa", "Birtingarform"
+   :header: "Eigindi", "Stuttheiti", "Lýsing", "Gagnatýpa", "Birtingarform"
 
-   "Mannvirkisnúmer", "auðkenni mannvirkis", "heiltala", "MV-000000"
+   "Mannvirkisnúmer", "MVNR", "Mannvirkisnúmer er auðkenni mannvirkis", "heiltala", "MV-000000"
    
 Vensl mannvirkis
 --------------------
