@@ -12,7 +12,7 @@ Mannvirki
 |
 |
     
-Nánar skilgreint [#]_ í 51. tölul. 1.2.1. gr. byggingarreglugerðar á eftirfarandi hátt:
+Nánar skilgreint í 51. tölul. 1.2.1. gr. byggingarreglugerðar [#]_
 
 .. admonition:: Skilgreining
     :class: skilgreining
