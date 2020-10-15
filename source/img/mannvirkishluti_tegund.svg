@@ -40,12 +40,12 @@
 			<text x="5.1" y="137.54" class="st4">MVHL <tspan x="8.29" dy="1.8em" class="st5">Mannvirkishluti</tspan></text>		</g>
 		<g id="shape5-7" transform="translate(3,-3)">
 			<title>Rectangle.53</title>
-			<desc>PLAN Plan</desc>
+			<desc>FL Flötur</desc>
 			<g id="shadow5-8" transform="matrix(1,0,0,1,1.44,1.44)" class="st1">
 				<rect x="0" y="103.713" width="56.6929" height="56.6929" rx="5.66929" ry="5.66929" class="st6"/>
 			</g>
 			<rect x="0" y="103.713" width="56.6929" height="56.6929" rx="5.66929" ry="5.66929" class="st7"/>
-			<text x="8.9" y="133.86" class="st4">PLAN <tspan x="23.1" dy="1.8em" class="st5">Plan</tspan></text>		</g>
+			<text x="20.43" y="133.86" class="st4">FL <tspan x="21.07" dy="1.8em" class="st5">Flötur</tspan></text>		</g>
 		<g id="shape6-13" transform="translate(31.3465,-59.6929)">
 			<title>Dynamic connector.48</title>
 			<path d="M0 160.41 L0 148.13 A5.66929 5.66929 0 0 1 5.67 142.46 L78.31 142.46 A5.66929 5.66929 -180 0 0 83.98 136.79
