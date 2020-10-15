@@ -5,6 +5,10 @@ Mannvirkishluti
   :width: 100
   :alt: Mannvirki
   :align: left
+  
+  |
+  |
+  |
 
 .. admonition:: Skilgreining
     :class: skilgreining
