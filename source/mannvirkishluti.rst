@@ -36,3 +36,8 @@ Vensl
 -----
 
 Mannvirkishluti tengist því mannvirki sem hann tilheyrir. Einn eða fleiri mannvirkishlutar mynda mannvirki.
+
+.. image:: img/mannvirki_mannvirkishluti.svg 
+  :width: 100
+  :alt: Vensl mannvirkis og mannvirkishluta
+
