@@ -6,14 +6,11 @@ Mannvirki
   :alt: Mannvirki
   :align: left
 
-**asdf [#]_ asdf**
-
-**Mannvirki er hverskonar jarðföst [#]_ manngerð framkvæmd.** 
+**Mannvirki er hverskonar jarðföst manngerð framkvæmd** [#]_ 
 
 |
 |
 |
-Jarðföst í þeirri merkingu að vera varanlega skeytt við jörðina eða hafa staðið á jörðinni í tiltekið langan tíma.
     
 Nánar skilgreint [#]_ í 51. tölul. 1.2.1. gr. byggingarreglugerðar á eftirfarandi hátt:
 
@@ -48,10 +45,10 @@ Mannvirki samanstendur af Mannvirkishlutum
   
 Skýringar
 ---------
-
+.. [#] Jarðföst í þeirri merkingu að vera varanlega skeytt við jörðina eða hafa staðið á jörðinni í tiltekið langan tíma
 .. [#] `[Mannvirki] HMS`_ 
 
 .. _`[Mannvirki] HMS`: http://www.mannvirkjastofnun.is/byggingar/spurningar-og-svor-um-byggingamal/hvad-er-mannvirki/
 
-.. [#] Jarðföst í þeirri merkingu að vera varanlega skeytt við jörðina eða hafa staðið á jörðinni í tiltekið langan tíma
+
   
