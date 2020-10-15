@@ -1,6 +1,11 @@
 Mannvirkishluti
 ===============
 
+.. image:: img/mannvirkishluti.svg 
+  :width: 100
+  :alt: Mannvirki
+  :align: left
+
 .. admonition:: Skilgreining
     :class: skilgreining
     
