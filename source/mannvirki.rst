@@ -44,12 +44,12 @@ Mannvirki samanstendur af Mannvirkishlutum
   :alt: Vensl mannvirkis og mannvirkishluta
   
   
+Skýringar
+---------
 
 .. [#] `[Mannvirki] HMS`_ 
 
 .. _`[Mannvirki] HMS`: http://www.mannvirkjastofnun.is/byggingar/spurningar-og-svor-um-byggingamal/hvad-er-mannvirki/
 
-.. [#] `[Jarðföst] Jarðföst`_ 
-
-.. _`[Jarðföst] Jarðföst`: í þeirri merkingu að vera varanlega skeytt við jörðina eða hafa staðið á jörðinni í tiltekið langan tíma.
+.. [#] Jarðföst í þeirri merkingu að vera varanlega skeytt við jörðina eða hafa staðið á jörðinni í tiltekið langan tíma
   
