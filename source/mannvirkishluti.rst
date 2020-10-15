@@ -6,9 +6,9 @@ Mannvirkishluti
   :alt: Mannvirki
   :align: left
   
-  |
-  |
-  |
+|
+|
+|
 
 .. admonition:: Skilgreining
     :class: skilgreining
