@@ -25,6 +25,11 @@ Hlutverk mannvirkishluta er að skipta mannvirki niður í hluta eftir framkvæm
 Eigindi
 -------
 
+.. csv-table:: 
+   :header: "Heiti", "Skilgreining", "Skýring", "Tækniheiti", "Stuttheiti",  "Gagnatýpa", "Uppruni", "Birtingarform"
+
+   "**Mannvirkishlutanúmer**", "Mannvirkishlutanúmer er upplýsingalaust einkvæmt auðkenni mannvirkishluta", "", "MannvirkishlutiNr", "MVHLNR",  "raðnúmer innan mannvirkisnúmer, pósitív heiltala í hækkandi röð sem byrjar á 1 ", "Framkallað gildi", "[MVNR:MVHLNR] MV-000000:1"
+
 Mannvirkishlutanúmer er auðkenni mannvirkishluta, heiltala sem er hlaupandi raðnúmer innan mannvirkis með birtingarformið MV-000000:1.
 
 Tegund mannvirkishluta tilgreinir hvers eðlis mannvirkishlutinn er og ákveður hvaða skráningaratriði eru skráð fyrir viðkomandi tegund mannvirkishluta. 
