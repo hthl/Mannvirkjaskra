@@ -6,7 +6,7 @@ Mannvirki
   :alt: Mannvirki
   :align: left
 
-**Mannvirki er hverskonar jarðföst [#]_ manngerð framkvæmd.**
+**Mannvirki er hverskonar jarðföst [#] manngerð framkvæmd.**
 
 |
 |
