@@ -16,9 +16,14 @@ Mannvirkishluti
     :class: skilgreining
     
     „Mannvirkishluti er hluti mannvirkis af tiltekinni tegund sem gerður er í einum áfanga og tilheyrir aðeins einni landeign“
+    
+Hlutverk
+--------
 
-Eigindi mannvirkishluta
--------------------
+Hlutverk mannvirkishluta er að skipta mannvirki niður í hluta eftir framkvæmdaráföngum og mörkum landeigna. Mannvirkishlutinn myndar heild sem útreikningur hlutfallstalna fasteignaréttinda byggir á.
+
+Eigindi
+-------
 
 Mannvirkishlutanúmer er auðkenni mannvirkishluta, heiltala sem er hlaupandi raðnúmer innan mannvirkis með birtingarformið MV-000000:1.
 
@@ -26,7 +31,7 @@ Tegund mannvirkishluta tilgreinir hvers eðlis mannvirkishlutinn er og ákveður
 Tegundir mannvirkishluta eru Byggingaráfangi, Flötur, Fasteignaréttindi og möguleiki er á að bæta við fleiri tegundum þegar þörf kemur upp á að skrá nýja tegund mannvirkis.
 Birtingarform Tegundar er BAF fyrir byggingaráfanga, FL fyrir flöt og FR fyrir fasteignaréttindi.
 
-Vensl mannvirkishluta
---------------------
+Vensl
+-----
 
 Mannvirkishluti tengist því mannvirki sem hann tilheyrir. Einn eða fleiri mannvirkishlutar mynda mannvirki.
