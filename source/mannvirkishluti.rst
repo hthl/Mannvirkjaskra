@@ -29,10 +29,10 @@ Eigindi
    :header: "Heiti", "Skilgreining", "Skýring", "Tækniheiti", "Stuttheiti",  "Gagnatýpa", "Uppruni", "Birtingarform"
 
    "**Mannvirkishlutanúmer**", "Mannvirkishlutanúmer er upplýsingalaust einkvæmt auðkenni mannvirkishluta", "", "MannvirkishlutiNr", "MVHLNR",  "raðnúmer innan mannvirkis, pósitív heiltala í hækkandi röð sem byrjar á 1 ", "Framkallað gildi", "[MVNR:MVHLNR] MV-000000:1"
-   "**Tegund**", "Tegund mannvirkishluta tilgreinir hvers eðlis mannvirkishlutinn er og ákveður hvaða skráningaratriði eru skráð fyrir viðkomandi tegund mannvirkishluta. Tegundir mannvirkishluta eru Byggingaráfangi, Flötur, Fasteignaréttindi og möguleiki er á að bæta við fleiri tegundum þegar þörf kemur upp á að skrá nýja tegund mannvirkis.", "Tegund tilgreinir erfðavensl", "Tegund", "TEG", "Enumeration ['BAF', 'FL', 'FR']", "Skráð gildi", "BAF"
+   "**Tegund**", "Tegund mannvirkishluta tilgreinir hvers eðlis mannvirkishlutinn er og ákveður hvaða skráningaratriði eru skráð fyrir viðkomandi tegund mannvirkishluta. Tegundir mannvirkishluta eru Byggingaráfangi, Flötur, Fasteignaréttindi og möguleiki er á að bæta við fleiri tegundum þegar þörf kemur upp á að skrá nýja tegund mannvirkis.", "Tegund tilgreinir erfðavensl", "Tegund", "TEG", "Enumeration ['BAF' - Byggingaráfangi, 'FL' - Flötur, 'FR' - Fasteignaréttindi]", "Skráð gildi", "BAF"
 
-Tegund mannvirkishluta tilgreinir hvers eðlis mannvirkishlutinn er og ákveður hvaða skráningaratriði eru skráð fyrir viðkomandi tegund mannvirkishluta. 
-Tegundir mannvirkishluta eru Byggingaráfangi, Flötur, Fasteignaréttindi og möguleiki er á að bæta við fleiri tegundum þegar þörf kemur upp á að skrá nýja tegund mannvirkis.
+Tegund mannvirkishluta tilgreinir hvers eðlis mannvirkishlutinn er og ákveður hvaða skráningaratriði eru skráð fyrir viðkomandi tegund. 
+Tegundir mannvirkishluta eru Byggingaráfangi, Flötur, Fasteignaréttindi og möguleiki er á að bæta við fleiri tegundum þegar þörf kemur upp á að skrá nýja tegund mannvirkishluta.
 Birtingarform Tegundar er BAF fyrir byggingaráfanga, FL fyrir flöt og FR fyrir fasteignaréttindi.
 
 Vensl
