@@ -46,9 +46,9 @@ Mannvirki samanstendur af Mannvirkishlutum
 Skýringar
 ---------
 .. [#] Jarðföst í þeirri merkingu að vera varanlega skeytt við jörðina eða hafa staðið á jörðinni í tiltekið langan tíma
-.. [#] `[HMS] tengill á vef HMS`_ 
+.. [#] `[HMS] Hvað er mannvirki`_ 
 
-.. _`[HMS] tengill á vef HMS`: http://www.mannvirkjastofnun.is/byggingar/spurningar-og-svor-um-byggingamal/hvad-er-mannvirki/
+.. _`[HMS] Hvað er mannvirki`: http://www.mannvirkjastofnun.is/byggingar/spurningar-og-svor-um-byggingamal/hvad-er-mannvirki/
 
 
   
