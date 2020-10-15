@@ -44,7 +44,7 @@ Mannvirkishluti tengist því mannvirki sem hann tilheyrir. Einn eða fleiri man
 Mannvirkishluti getur verið Byggingaráfangi, Flötur eða Fasteignaréttindi. Mannvirkishluti er "Abstract" hlutur en tegundir hans eru sértækar útfærslur hans.
 
 .. image:: img/mannvirkishluti_tegund.svg 
-  :height: 100
+  :height: 50
   :width: 400
   :scale: 500
   :alt: Sértækar útfærslur mannvirkishluta
