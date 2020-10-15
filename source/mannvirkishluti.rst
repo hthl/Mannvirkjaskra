@@ -47,4 +47,11 @@ Mannvirkishluti getur verið Byggingaráfangi, Flötur eða Fasteignaréttindi. 
   :width: 400
   :scale: 1000
   :alt: Sértækar útfærslur mannvirkishluta
+  
+Mannvirkishluti skiptist í rekstrareiningar.
+  
+.. image:: img/mannvirkishluti_rekstrareining.svg 
+  :width: 400
+  :scale: 1000
+  :alt: Sértækar útfærslur mannvirkishluta
 
