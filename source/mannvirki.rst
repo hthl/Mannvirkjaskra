@@ -8,7 +8,7 @@ Mannvirki
 
 **asdf [#]_ asdf**
 
-**Mannvirki er hverskonar jarðföst  manngerð framkvæmd.** [#]_
+**Mannvirki er hverskonar jarðföst [#]_ manngerð framkvæmd.** 
 
 |
 |
