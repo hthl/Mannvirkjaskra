@@ -6,7 +6,7 @@ Mannvirki
   :alt: Mannvirki
   :align: left
 
-**Mannvirki er hverskonar jarðföst manngerð framkvæmd.**
+**Mannvirki er hverskonar jarðföst[#]_ manngerð framkvæmd.**
 
 |
 |
@@ -24,6 +24,10 @@ Nánar skilgreint [#]_ í 51. tölul. 1.2.1. gr. byggingarreglugerðar á eftirf
 .. [#] `[Mannvirki] HMS`_ 
 
 .. _`[Mannvirki] HMS`: http://www.mannvirkjastofnun.is/byggingar/spurningar-og-svor-um-byggingamal/hvad-er-mannvirki/
+
+.. [#] `[Jarðföst] Jarðföst`_ 
+
+.. _`[Jarðföst] Jarðföst`: í þeirri merkingu að vera varanlega skeytt við jörðina eða hafa staðið á jörðinni í tiltekið langan tíma.
 
 Hlutverk 
 ---------
