@@ -45,6 +45,6 @@ Mannvirkishluti getur verið Byggingaráfangi, Flötur eða Fasteignaréttindi. 
 
 .. image:: img/mannvirkishluti_tegund.svg 
   :width: 100
-  :scale: 300
+  :scale: 300%
   :alt: Sértækar útfærslur mannvirkishluta
 
