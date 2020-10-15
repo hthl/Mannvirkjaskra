@@ -6,6 +6,8 @@ Mannvirki
   :alt: Mannvirki
   :align: left
 
+[#]_
+
 **Mannvirki er hverskonar jarðföst [#]_ manngerð framkvæmd.**
 
 |
