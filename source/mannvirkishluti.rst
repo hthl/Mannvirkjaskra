@@ -10,6 +10,7 @@ Mannvirkishluti
 |
 |
 |
+|
 
 .. admonition:: Skilgreining
     :class: skilgreining
