@@ -26,7 +26,7 @@ Nánar skilgreint [#]_ í 51. tölul. 1.2.1. gr. byggingarreglugerðar á eftirf
 
 Hlutverk 
 ---------
-Mannvirki tengir saman mannvirkishluta í eitt mannvirki. Með því fæst andlag sem geymir samhengi og sögu mannvirkisins, leyfir skráningu mannvirkja sem nær yfir margar landeignir með skýrum eignamörkum og gerir kleyft að draga saman samtölur úr mannvirkishlutum.
+Mannvirki er andlag sem geymir sögu mannvirkis og samhengi þess við mannvirkishluta. Það tengir saman mannvirkishluta í eitt mannvirki og leyfir eðlilega umsýslu fasteignaréttinda í mannvirkjum sem ná yfir mörk landeigna.
 
 
 Eigindi 
