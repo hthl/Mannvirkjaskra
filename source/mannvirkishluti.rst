@@ -106,7 +106,7 @@ Mannvirkishluti
    
 .. figure:: img/mannvirkishluti_tegund.svg 
    :width: 380
-   :figwidth: 110%
+   :figwidth: 500
    :alt: Sértækar útfærslur mannvirkishluta
    :align: center
    
