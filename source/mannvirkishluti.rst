@@ -1,7 +1,7 @@
 Mannvirkishluti 
 ===============
 
-image:: img/mannvirkishluti.svg 
+.. image:: img/mannvirkishluti.svg 
    :width: 100
 
 Skilgreining
@@ -94,7 +94,6 @@ Rekstrareining
   .. figure:: img/mannvirkishluti_rekstrareining.svg 
     :width: 100
     :align: center
-    :scale: 1000
     :alt: Sértækar útfærslur mannvirkishluta
 
     Vensl mannvirkishluta og rekstareiningar
