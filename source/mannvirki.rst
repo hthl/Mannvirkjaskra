@@ -4,14 +4,12 @@ Mannvirki
 .. image:: img/mannvirki.svg 
   :width: 100
   :alt: Mannvirki
-  :align: left
+  
+Skilgreining
+---------
 
 **Mannvirki er hverskonar jarðföst manngerð framkvæmd** [#]_ 
 
-|
-|
-|
-    
 Nánar skilgreint í 51. tölul. 1.2.1. gr. byggingarreglugerðar [#]_
 
 .. admonition:: Skilgreining
@@ -28,10 +26,29 @@ Mannvirki er andlag sem geymir sögu mannvirkis og samhengi þess við mannvirki
 Eigindi 
 -------
 
-.. csv-table:: 
-   :header: "Heiti", "Skilgreining", "Skýring", "Tækniheiti", "Stuttheiti",  "Gagnatýpa", "Uppruni", "Birtingarform"
+Mannvirkisnúmer
+~~~~~~~~~~~~~~~
 
-   "**Mannvirkisnúmer**", "Mannvirkisnúmer er upplýsingalaust einkvæmt auðkenni mannvirkis", "", "MannvirkiNr", "MVNR",  "pósitív heiltala í hækkandi röð", "Framkallað gildi", "MV-000000"
+ :Skilgreining:
+    Mannvirkisnúmer er upplýsingalaust einkvæmt auðkenni mannvirkis
+  
+  :Skýring:
+  
+  :Tækniheiti:
+    MannvirkiNr
+    
+  :Stuttheiti:
+    MVNR
+    
+  :Gagnatýpa:
+    pósitív heiltala í hækkandi röð 
+    
+  :Uppruni:
+    Framkallað gildi
+    
+  :Birtingarform:  
+    [MVNR] MV-000000
+    
    
 Vensl 
 -----
