@@ -1,13 +1,7 @@
 Mannvirkishluti
 ===============
 
-|mannvirkishluti| asdf |mannvirkishluti|
-  
-|
-|
-|
-|
-|
+|mannvirkishluti| 
 
 .. admonition:: Skilgreining
     :class: skilgreining
