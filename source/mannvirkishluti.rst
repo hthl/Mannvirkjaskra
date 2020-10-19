@@ -50,11 +50,10 @@ Eigindi
 **Tegund** 
 
   :Skilgreining:
-    Tegund mannvirkishluta tilgreinir hvers eðlis mannvirkishlutinn er og ákveður hvaða skráningaratriði eru skráð fyrir viðkomandi tegund mannvirkishluta. Tegundir mannvirkishluta eru Byggingaráfangi, Flötur, Fasteignaréttindi og möguleiki er á að bæta við fleiri tegundum þegar þörf kemur upp á að skrá nýja tegund mannvirkis.
-    
+    Tegund mannvirkishluta tilgreinir hvers eðlis mannvirkishlutinn er og ákveður hvaða skráningaratriði eru skráð fyrir viðkomandi tegund mannvirkishluta. Tegundir mannvirkishluta eru Byggingaráfangi, Flötur, Fasteignaréttindi.
   :Skýring:
-    Tegund tilgreinir erfðavensl
-    
+    Tegund tilgreinir erfðavensl. Möguleiki er á að bæta við fleiri tegundum mannvirkishluta þegar þörf kemur upp á að skrá nýja tegund mannvirkis.
+        
   :Tækniheiti:
     Tegund
    
