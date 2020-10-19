@@ -53,6 +53,8 @@ Mannvirkisnúmer
 Vensl 
 -----
 
+Mannvirkishluti
+~~~~~~~~~~~~~~~
 Mannvirki samanstendur af Mannvirkishlutum
 
 .. image:: img/mannvirki_mannvirkishluti.svg 
