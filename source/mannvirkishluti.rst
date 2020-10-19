@@ -104,16 +104,12 @@ Mannvirkishluti skiptist í eina eða fleiri rekstrareiningar.
 Mannvirkishluti
 ~~~~~~~~~~~~~~~
    
-   .. figure:: img/mannvirkishluti_tegund.svg 
-      :width: 380
-      :figwidth: 500
-      :alt: Sértækar útfærslur mannvirkishluta
-      :align: center
-
-      Erfðavensl mannvirkishluta abc
-   
-   Erfðavensl mannvirkishluta efg
-   
-   
+.. figure:: img/mannvirkishluti_tegund.svg 
+   :width: 380
+   :figwidth: 500
+   :alt: Sértækar útfærslur mannvirkishluta
+   :align: center
+   Erfðavensl mannvirkishluta 
+  
 Mannvirkishluti getur verið Byggingaráfangi, Flötur eða Fasteignaréttindi. Mannvirkishluti er "Abstract" hlutur en tegundir hans eru sértækar útfærslur hans.
 
