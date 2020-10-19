@@ -1,10 +1,7 @@
 Mannvirkishluti
 ===============
 
-.. image:: img/mannvirkishluti.svg 
-  :width: 100
-  :alt: Mannvirki
-  :align: left
+|mannvirkishluti| asdf |mannvirkishluti|
   
 |
 |
@@ -16,6 +13,9 @@ Mannvirkishluti
     :class: skilgreining
     
     „Mannvirkishluti er hluti mannvirkis af tiltekinni tegund sem gerður er í einum áfanga og tilheyrir aðeins einni landeign“
+    
+.. |mannvirkishluti| image:: img/mannvirkishluti.svg 
+   :width: 100%
     
 Hlutverk
 --------
