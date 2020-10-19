@@ -8,7 +8,7 @@ Mannvirkishluti
     „Mannvirkishluti er hluti mannvirkis af tiltekinni tegund sem gerður er í einum áfanga og tilheyrir aðeins einni landeign“
     
 .. |mannvirkishluti| image:: img/mannvirkishluti.svg 
-   :width: 100%
+   :width: 100
     
 Hlutverk
 --------
