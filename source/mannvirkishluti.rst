@@ -37,13 +37,16 @@ Eigindi
   
   
 **Tegund** 
-  Tegund mannvirkishluta tilgreinir hvers eðlis mannvirkishlutinn er og ákveður hvaða skráningaratriði eru skráð fyrir viðkomandi tegund mannvirkishluta. Tegundir mannvirkishluta eru Byggingaráfangi, Flötur, Fasteignaréttindi og möguleiki er á að bæta við fleiri tegundum þegar þörf kemur upp á að skrá nýja tegund mannvirkis.
-  Tegund tilgreinir erfðavensl
-  Tegund
-  TEG
-  Enumeration ['BAF' - Byggingaráfangi, 'FL' - Flötur, 'FR' - Fasteignaréttindi]
-  Skráð gildi
-  [Tegund] BAF
+  :Skilgreining:
+    Tegund mannvirkishluta tilgreinir hvers eðlis mannvirkishlutinn er og ákveður hvaða skráningaratriði eru skráð fyrir viðkomandi tegund mannvirkishluta. Tegundir mannvirkishluta eru Byggingaráfangi, Flötur, Fasteignaréttindi og möguleiki er á að bæta við fleiri tegundum þegar þörf kemur upp á að skrá nýja tegund mannvirkis.
+  :Skýring:
+    Tegund tilgreinir erfðavensl
+  :Tækniheiti:
+    Tegund
+    TEG
+    Enumeration ['BAF' - Byggingaráfangi, 'FL' - Flötur, 'FR' - Fasteignaréttindi]
+    Skráð gildi
+    [Tegund] BAF
 
 .. csv-table:: 
    :header: "Heiti", "Skilgreining", "Skýring", "Tækniheiti", "Stuttheiti",  "Gagnatýpa", "Uppruni", "Birtingarform"
