@@ -62,6 +62,12 @@ Eigindi
     
   :Gagnatýpa:
     Enumeration 
+      :Kóði:
+        BAF
+      
+      :Skilgreining:
+        Byggingaráfangi
+        
       - 'BAF' - Byggingaráfangi
       - 'FL' - Flötur
       - 'FR' - Fasteignaréttindi
