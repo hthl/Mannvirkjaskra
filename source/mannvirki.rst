@@ -55,12 +55,15 @@ Vensl
 
 Mannvirkishluti
 ~~~~~~~~~~~~~~~
-Mannvirki samanstendur af Mannvirkishlutum
 
-.. image:: img/mannvirki_mannvirkishluti.svg 
+
+.. figure:: img/mannvirki_mannvirkishluti.svg 
   :width: 100
   :alt: Vensl mannvirkis og mannvirkishluta
   
+  Vensl mannvirkis og mannvirkishluta
+  
+  Mannvirki samanstendur af Mannvirkishlutum
   
 Skýringar
 ---------
