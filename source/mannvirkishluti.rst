@@ -61,7 +61,10 @@ Eigindi
     TEG
     
   :Gagnatýpa:
-    Enumeration ['BAF' - Byggingaráfangi, 'FL' - Flötur, 'FR' - Fasteignaréttindi]
+    Enumeration 
+    - 'BAF' - Byggingaráfangi
+    - 'FL' - Flötur
+    - 'FR' - Fasteignaréttindi
     
   :Uppruni:
     Skráð gildi
