@@ -26,16 +26,28 @@ Eigindi
 -------
 
 **Mannvirkishlutanúmer**
+  
+  :Skilgreining:
   Mannvirkishlutanúmer er upplýsingalaust einkvæmt auðkenni mannvirkishluta
-  -
-  MannvirkishlutiNr
-  MVHLNR
-  raðnúmer innan mannvirkis
-  pósitív heiltala í hækkandi röð sem byrjar á 1 
-  Framkallað gildi
-  [MVNR:MVHLNR] MV-000000:1
   
+  :Skýring:
+    -
   
+  :Tækniheiti:
+    MannvirkishlutiNr
+  :Stuttheiti:
+    MVHLNR
+    
+  :Gagnatýpa:
+    raðnúmer innan mannvirkis
+    pósitív heiltala í hækkandi röð sem byrjar á 1 
+    
+  :Uppruni:
+    Framkallað gildi
+    
+  :Birtingarform:  
+    [MVNR:MVHLNR] MV-000000:1
+    
 **Tegund** 
 
   :Skilgreining:
@@ -46,9 +58,17 @@ Eigindi
     
   :Tækniheiti:
     Tegund
+   
+  :Stuttheiti:
     TEG
+    
+  :Gagnatýpa:
     Enumeration ['BAF' - Byggingaráfangi, 'FL' - Flötur, 'FR' - Fasteignaréttindi]
+    
+  :Uppruni:
     Skráð gildi
+  
+  :Birtingarform:
     [Tegund] BAF
 
 .. csv-table:: 
