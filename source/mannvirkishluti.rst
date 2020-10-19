@@ -81,7 +81,6 @@ Mannvirki
   
 .. figure:: img/mannvirki_mannvirkishluti.svg 
    :width: 100
-   :align: center
    :alt: Vensl mannvirkis og mannvirkishluta
    
    
@@ -94,7 +93,6 @@ Rekstrareining
   
 .. figure:: img/mannvirkishluti_rekstrareining.svg 
    :width: 100
-   :align: center
    :alt: Sértækar útfærslur mannvirkishluta
    
    
@@ -110,7 +108,6 @@ Mannvirkishluti
    :width: 380
    :figwidth: 500
    :alt: Sértækar útfærslur mannvirkishluta
-   :align: center
    
    
    Erfðavensl mannvirkishluta 
