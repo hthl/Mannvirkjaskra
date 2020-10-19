@@ -92,14 +92,14 @@ Vensl
 
 **Rekstrareining**
   
-.. figure:: img/mannvirkishluti_rekstrareining.svg 
-  :width: 100
-  :scale: 1000
-  :alt: Sértækar útfærslur mannvirkishluta
+  .. figure:: img/mannvirkishluti_rekstrareining.svg 
+    :width: 100
+    :scale: 1000
+    :alt: Sértækar útfærslur mannvirkishluta
 
-  Vensl mannvirkishluta og rekstareiningar
+    Vensl mannvirkishluta og rekstareiningar
 
-  Mannvirkishluti skiptist í eina eða fleiri rekstrareiningar.
+    Mannvirkishluti skiptist í eina eða fleiri rekstrareiningar.
 
 **Mannvirkishluti**
    
