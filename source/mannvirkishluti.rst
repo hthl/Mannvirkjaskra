@@ -62,6 +62,7 @@ Eigindi
     
   :Gagnatýpa:
     Enumeration 
+    
       .. csv-table:: 
         :header: "Kóði", "Skilgreining"
         
