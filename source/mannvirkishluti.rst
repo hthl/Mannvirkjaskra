@@ -88,19 +88,23 @@ Vensl
     
     Mannvirkishluti tengist því mannvirki sem hann tilheyrir. Einn eða fleiri mannvirkishlutar mynda mannvirki.
 
-Mannvirkishluti getur verið Byggingaráfangi, Flötur eða Fasteignaréttindi. Mannvirkishluti er "Abstract" hlutur en tegundir hans eru sértækar útfærslur hans.
+
    
-.. image:: img/mannvirkishluti_tegund.svg 
+.. figure:: img/mannvirkishluti_tegund.svg 
   :width: 380
   :scale: 1000
   :alt: Sértækar útfærslur mannvirkishluta
   :align: center
   
-Mannvirkishluti skiptist í eina eða fleiri rekstrareiningar.
+  Mannvirkishluti getur verið Byggingaráfangi, Flötur eða Fasteignaréttindi. Mannvirkishluti er "Abstract" hlutur en tegundir hans eru sértækar útfærslur hans.
   
-.. image:: img/mannvirkishluti_rekstrareining.svg 
+
+  
+.. figure:: img/mannvirkishluti_rekstrareining.svg 
   :width: 100
   :scale: 1000
   :alt: Sértækar útfærslur mannvirkishluta
   :align: center
+  
+  Mannvirkishluti skiptist í eina eða fleiri rekstrareiningar.
 
