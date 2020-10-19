@@ -83,6 +83,7 @@ Mannvirki
    :width: 100
    :align: center
    :alt: Vensl mannvirkis og mannvirkishluta
+   
    Vensl mannvirkishluta og mannvirkis
 
 Mannvirkishluti tengist því mannvirki sem hann tilheyrir. Einn eða fleiri mannvirkishlutar mynda mannvirki.
@@ -94,6 +95,7 @@ Rekstrareining
    :width: 100
    :align: center
    :alt: Sértækar útfærslur mannvirkishluta
+   
    Vensl mannvirkishluta og rekstareiningar
 
 Mannvirkishluti skiptist í eina eða fleiri rekstrareiningar.
@@ -105,6 +107,7 @@ Mannvirkishluti
    :width: 380
    :alt: Sértækar útfærslur mannvirkishluta
    :align: center
+   
    Erfðavensl mannvirkishluta
 
 Mannvirkishluti getur verið Byggingaráfangi, Flötur eða Fasteignaréttindi. Mannvirkishluti er "Abstract" hlutur en tegundir hans eru sértækar útfærslur hans.
