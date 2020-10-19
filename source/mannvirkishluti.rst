@@ -104,13 +104,13 @@ Mannvirkishluti skiptist í eina eða fleiri rekstrareiningar.
 Mannvirkishluti
 ~~~~~~~~~~~~~~~
    
-.. figure:: img/mannvirkishluti_tegund.svg 
-   :width: 380
-   :figwidth: 500
-   :alt: Sértækar útfærslur mannvirkishluta
-   :align: center
-   
-   Erfðavensl mannvirkishluta abc
+   .. figure:: img/mannvirkishluti_tegund.svg 
+      :width: 380
+      :figwidth: 500
+      :alt: Sértækar útfærslur mannvirkishluta
+      :align: center
+
+      Erfðavensl mannvirkishluta abc
    
    Erfðavensl mannvirkishluta efg
    
