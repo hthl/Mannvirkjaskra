@@ -62,9 +62,9 @@ Eigindi
     
   :Gagnatýpa:
     Enumeration 
-    - 'BAF' - Byggingaráfangi
-    - 'FL' - Flötur
-    - 'FR' - Fasteignaréttindi
+      - 'BAF' - Byggingaráfangi
+      - 'FL' - Flötur
+      - 'FR' - Fasteignaréttindi
     
   :Uppruni:
     Skráð gildi
