@@ -64,6 +64,7 @@ Eigindi
     Enumeration 
       .. csv-table:: 
         :header: "Kóði", "Skilgreining"
+        
         "BAF", "Byggingaráfangi"
         "FL", "Flötur"
         "FR", "Fasteignaréttindi"
