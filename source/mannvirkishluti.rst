@@ -28,10 +28,9 @@ Eigindi
 **Mannvirkishlutanúmer**
   
   :Skilgreining:
-  Mannvirkishlutanúmer er upplýsingalaust einkvæmt auðkenni mannvirkishluta
+    Mannvirkishlutanúmer er upplýsingalaust einkvæmt auðkenni mannvirkishluta
   
   :Skýring:
-    -
   
   :Tækniheiti:
     MannvirkishlutiNr
