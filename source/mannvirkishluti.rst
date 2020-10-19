@@ -62,15 +62,11 @@ Eigindi
     
   :Gagnatýpa:
     Enumeration 
-      :Kóði:
-        BAF
-      
-      :Skilgreining:
-        Byggingaráfangi
-        
-      - 'BAF' - Byggingaráfangi
-      - 'FL' - Flötur
-      - 'FR' - Fasteignaréttindi
+      .. csv-table:: 
+        :header: "Kóði", "Skilgreining"
+        "BAF", "Byggingaráfangi"
+        "FL", "Flötur"
+        "FR", "Fasteignaréttindi"
     
   :Uppruni:
     Skráð gildi
