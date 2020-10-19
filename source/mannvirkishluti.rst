@@ -97,6 +97,8 @@ Rekstrareining
    :alt: Sértækar útfærslur mannvirkishluta
    
    Vensl mannvirkishluta og rekstareiningar
+   
+   -
 
 Mannvirkishluti skiptist í eina eða fleiri rekstrareiningar.
 
@@ -109,6 +111,8 @@ Mannvirkishluti
    :align: center
    
    Erfðavensl mannvirkishluta
+   
+   -
 
 Mannvirkishluti getur verið Byggingaráfangi, Flötur eða Fasteignaréttindi. Mannvirkishluti er "Abstract" hlutur en tegundir hans eru sértækar útfærslur hans.
 
