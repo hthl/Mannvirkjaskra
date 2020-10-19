@@ -47,8 +47,9 @@ Mannvirkishlutanúmer
     
   :Birtingarform:  
     [MVNR:MVHLNR] MV-000000:1
-    
-### **Tegund** 
+   
+Tegund
+~~~~~~~~~~~~~~~~~~~~ 
 
   :Skilgreining:
     Tegund mannvirkishluta. 
@@ -80,7 +81,8 @@ Mannvirkishlutanúmer
 Vensl
 -----
 
-**Mannvirki**
+Mannvirki
+~~~~~~~~~
   
   .. figure:: img/mannvirki_mannvirkishluti.svg 
     :width: 100
@@ -91,7 +93,8 @@ Vensl
     
     Mannvirkishluti tengist því mannvirki sem hann tilheyrir. Einn eða fleiri mannvirkishlutar mynda mannvirki.
 
-**Rekstrareining**
+Rekstrareining
+~~~~~~~~~~~~~~
   
   .. figure:: img/mannvirkishluti_rekstrareining.svg 
     :width: 100
@@ -103,7 +106,8 @@ Vensl
 
     Mannvirkishluti skiptist í eina eða fleiri rekstrareiningar.
 
-**Mannvirkishluti**
+Mannvirkishluti
+~~~~~~~~~~~~~~~
    
   .. figure:: img/mannvirkishluti_tegund.svg 
     :width: 380
