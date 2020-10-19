@@ -84,6 +84,7 @@ Mannvirki
    :align: center
    :alt: Vensl mannvirkis og mannvirkishluta
    
+   
    Vensl mannvirkishluta og mannvirkis
 
 Mannvirkishluti tengist því mannvirki sem hann tilheyrir. Einn eða fleiri mannvirkishlutar mynda mannvirki.
@@ -95,6 +96,7 @@ Rekstrareining
    :width: 100
    :align: center
    :alt: Sértækar útfærslur mannvirkishluta
+   
    
    Vensl mannvirkishluta og rekstareiningar
    
@@ -109,6 +111,7 @@ Mannvirkishluti
    :figwidth: 500
    :alt: Sértækar útfærslur mannvirkishluta
    :align: center
+   
    
    Erfðavensl mannvirkishluta 
   
