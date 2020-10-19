@@ -8,7 +8,7 @@ Mannvirki
 Skilgreining
 ---------
 
-**Mannvirki er hverskonar jarðföst manngerð framkvæmd** [#]_ 
+Mannvirki er hverskonar jarðföst [#]_ manngerð framkvæmd
 
 Nánar skilgreint í 51. tölul. 1.2.1. gr. byggingarreglugerðar [#]_
 
