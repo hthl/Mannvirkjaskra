@@ -110,9 +110,9 @@ Mannvirkishluti
    :alt: Sértækar útfærslur mannvirkishluta
    :align: center
    
-   ...
+   Erfðavensl mannvirkishluta abc
    
-   Erfðavensl mannvirkishluta
+   Erfðavensl mannvirkishluta efg
    
    
 Mannvirkishluti getur verið Byggingaráfangi, Flötur eða Fasteignaréttindi. Mannvirkishluti er "Abstract" hlutur en tegundir hans eru sértækar útfærslur hans.
