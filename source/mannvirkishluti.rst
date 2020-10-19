@@ -25,7 +25,8 @@ Hlutverk mannvirkishluta er að skipta mannvirki niður í hluta eftir framkvæm
 Eigindi
 -------
 
-### Mannvirkishlutanúmer
+Mannvirkishlutanúmer
+~~~~~~~~~~~~~~~~~~~~
   
   :Skilgreining:
     Mannvirkishlutanúmer er upplýsingalaust einkvæmt auðkenni mannvirkishluta
