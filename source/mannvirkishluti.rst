@@ -110,6 +110,8 @@ Mannvirkishluti
    :alt: Sértækar útfærslur mannvirkishluta
    :align: center
    
+   ...
+   
    Erfðavensl mannvirkishluta
    
    
