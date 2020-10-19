@@ -94,6 +94,7 @@ Vensl
   
   .. figure:: img/mannvirkishluti_rekstrareining.svg 
     :width: 100
+    :align: center
     :scale: 1000
     :alt: Sértækar útfærslur mannvirkishluta
 
