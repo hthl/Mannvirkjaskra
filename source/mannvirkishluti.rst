@@ -76,13 +76,6 @@ Eigindi
   :Birtingarform:
     [Tegund] BAF
 
-.. csv-table:: 
-   :header: "Heiti", "Skilgreining", "Skýring", "Tækniheiti", "Stuttheiti",  "Gagnatýpa", "Uppruni", "Birtingarform"
-
-   "**Mannvirkishlutanúmer**", "Mannvirkishlutanúmer er upplýsingalaust einkvæmt auðkenni mannvirkishluta", "", "MannvirkishlutiNr", "MVHLNR",  "raðnúmer innan mannvirkis, pósitív heiltala í hækkandi röð sem byrjar á 1 ", "Framkallað gildi", "[MVNR:MVHLNR] MV-000000:1"
-   "**Tegund**", "Tegund mannvirkishluta tilgreinir hvers eðlis mannvirkishlutinn er og ákveður hvaða skráningaratriði eru skráð fyrir viðkomandi tegund mannvirkishluta. Tegundir mannvirkishluta eru Byggingaráfangi, Flötur, Fasteignaréttindi og möguleiki er á að bæta við fleiri tegundum þegar þörf kemur upp á að skrá nýja tegund mannvirkis.", "Tegund tilgreinir erfðavensl", "Tegund", "TEG", "Enumeration ['BAF' - Byggingaráfangi, 'FL' - Flötur, 'FR' - Fasteignaréttindi]", "Skráð gildi", "[Tegund] BAF"
-
-
 Vensl
 -----
 
