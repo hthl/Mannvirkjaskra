@@ -29,25 +29,25 @@ Eigindi
 Mannvirkisnúmer
 ~~~~~~~~~~~~~~~
 
- :Skilgreining:
-    Mannvirkisnúmer er upplýsingalaust einkvæmt auðkenni mannvirkis
-  
-  :Skýring:
-  
-  :Tækniheiti:
-    MannvirkiNr
-    
-  :Stuttheiti:
-    MVNR
-    
-  :Gagnatýpa:
-    pósitív heiltala í hækkandi röð 
-    
-  :Uppruni:
-    Framkallað gildi
-    
-  :Birtingarform:  
-    [MVNR] MV-000000
+:Skilgreining:
+  Mannvirkisnúmer er upplýsingalaust einkvæmt auðkenni mannvirkis
+
+:Skýring:
+
+:Tækniheiti:
+  MannvirkiNr
+
+:Stuttheiti:
+  MVNR
+
+:Gagnatýpa:
+  pósitív heiltala í hækkandi röð 
+
+:Uppruni:
+  Framkallað gildi
+
+:Birtingarform:  
+  [MVNR] MV-000000
     
    
 Vensl 
@@ -55,7 +55,6 @@ Vensl
 
 Mannvirkishluti
 ~~~~~~~~~~~~~~~
-
 
 .. figure:: img/mannvirki_mannvirkishluti.svg 
   :width: 100
