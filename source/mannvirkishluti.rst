@@ -87,7 +87,7 @@ Vensl
     :align: center
     :alt: Vensl mannvirkis og mannvirkishluta
 
-Mannvirkishluti getur verið Byggingaráfangi, Flötur eða Fasteignaréttindi. Mannvirkishluti er "Abstract" hlutur en tegundir hans eru sértækar útfærslur hans.
+    Mannvirkishluti getur verið Byggingaráfangi, Flötur eða Fasteignaréttindi. Mannvirkishluti er "Abstract" hlutur en tegundir hans eru sértækar útfærslur hans.
 
 .. image:: img/mannvirkishluti_tegund.svg 
   :width: 380
