@@ -79,12 +79,13 @@ Eigindi
 Vensl
 -----
 
-Mannvirkishluti tengist því mannvirki sem hann tilheyrir. Einn eða fleiri mannvirkishlutar mynda mannvirki.
+**Mannvirki**
+  Mannvirkishluti tengist því mannvirki sem hann tilheyrir. Einn eða fleiri mannvirkishlutar mynda mannvirki.
 
-.. image:: img/mannvirki_mannvirkishluti.svg 
-  :width: 100
-  :align: center
-  :alt: Vensl mannvirkis og mannvirkishluta
+  .. figure:: img/mannvirki_mannvirkishluti.svg 
+    :width: 100
+    :align: center
+    :alt: Vensl mannvirkis og mannvirkishluta
 
 Mannvirkishluti getur verið Byggingaráfangi, Flötur eða Fasteignaréttindi. Mannvirkishluti er "Abstract" hlutur en tegundir hans eru sértækar útfærslur hans.
 
