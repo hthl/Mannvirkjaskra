@@ -27,7 +27,7 @@ Eigindi 1
  Eigindi 1 er ...
 
 :Skýring:
-Skýring
+  Skýring
 :Tækniheiti:
  Tækniheiti
 :Stuttheiti:
