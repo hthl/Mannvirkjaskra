@@ -1,4 +1,4 @@
-Byggingarafangi
+Byggingarafángi
 ===============
 
 .. admonition:: Skilgreining
