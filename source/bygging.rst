@@ -1,18 +1,57 @@
-Bygging
-=======
+Bygging 
+===============
+
+.. image:: img/bygging.svg 
+   :width: 100
+
+Skilgreining
+------------
 
 .. admonition:: Skilgreining
     :class: skilgreining
     
-    „Mannvirkishluti er hluti mannvirkis af tiltekinni tegund sem gerður er í einum áfanga og tilheyrir aðeins einni landeigna“
+    „Bygging er mannvirki með nýtanlegt rými í samræmi við tilgang byggingarinnar“
+   
+Hlutverk
+--------
 
-Eigindi byggingar
--------------------
+Hlutverk byggingar er ...
 
-Byggingarnúmer er auðkenni byggingar, heiltala með birtingarformið B-000000.
+Eigindi
+-------
 
+Byggingarnúmer
+~~~~~~~~~~~~~~~~~~~~
+  
+:Skilgreining:
+ Byggingarnúmer er upplýsingalaust einkvæmt auðkenni mannvirkishluta
 
-Vensl byggingar
---------------------
+:Skýring:
 
-Bygging samanstendur af byggingaráföngum
+:Tækniheiti:
+ ByggingNr
+ 
+:Stuttheiti:
+ BYG
+
+:Gagnatýpa:
+ pósitív heiltala í hækkandi röð
+
+:Uppruni:
+ Framkallað gildi
+
+:Birtingarform:  
+ [B-BYGNR] B-000000
+
+Vensl
+-----
+
+Byggingaráfangi
+~~~~~~~~~~~~~~~
+  
+.. figure:: img/bygging_byggingarafangi.svg 
+  :width: 100
+
+  Vensl byggingar og byggingaráfanga
+
+Bygging samanstendur af byggingaráföngum.
