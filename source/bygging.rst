@@ -251,10 +251,10 @@ Flatarmál berandi platna
   Tilgangur með skráningu er að reikna byggingarkostnað og hitatap
   
 :Tækniheiti:
- ThakOpM2
+ BerandiPlataM2
  
 :Stuttheiti:
- ThakOpM2
+ BplM2
 
 :Gagnatýpa:
  pósitív rauntala 
@@ -263,7 +263,7 @@ Flatarmál berandi platna
  Innlesið gildi  (ekki null)
  
 :Birtingarform:  
- [*ThakOpM2* m²] 0,0 m²
+ [*BerandiPlataM2* m²] 0,0 m²
 
 Vensl
 -----
