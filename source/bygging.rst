@@ -32,7 +32,7 @@ Byggingarnúmer
  ByggingNr
  
 :Stuttheiti:
- BYG
+ Byg
 
 :Gagnatýpa:
  pósitív heiltala í hækkandi röð
@@ -41,7 +41,7 @@ Byggingarnúmer
  Framkallað gildi
 
 :Birtingarform:  
- [B-*BYGNR*] B-000000
+ [B-*ByggingNr*] B-000000
  
 Ummál botnplötu
 ~~~~~~~~~~~~~~~~~~~~
@@ -179,7 +179,34 @@ Flatarmál veggopa
  Innlesið gildi  (ekki null)
  
 :Birtingarform:  
- [VeggOpm2 m²] 0,0 m²
+ [*VeggOpm2* m²] 0,0 m²
+ 
+Flatarmál þaks
+~~~~~~~~~~~~~~~~~~~~
+  
+:Skilgreining:
+ Raunflötur þaks
+
+:Skýring:
+   Raunflötur er flatarmál þaks ásamt þakkanti og kvistum. 
+
+:Tilgangur:
+  Tilgangur með skráningu er að reikna byggingarkostnað og hitatap
+  
+:Tækniheiti:
+ ThakM2
+ 
+:Stuttheiti:
+ ThakM2
+
+:Gagnatýpa:
+ pósitív rauntala 
+ 
+:Uppruni:
+ Innlesið gildi  (ekki null)
+ 
+:Birtingarform:  
+ [*ThakM2* m²] 0,0 m²
 
 Vensl
 -----
