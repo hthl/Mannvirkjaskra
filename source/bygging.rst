@@ -50,12 +50,44 @@ Ummál botnplötu
  Ummál botnplötu sem liggur að jörð
 
 :Skýring:
+   Hlutfall á milli flatarmáls og ummáls byggingar segir til um hversu mikið flækjustig er í byggingunni
+
+:Tilgangur:
+  
 
 :Tækniheiti:
  BotnM2
  
 :Stuttheiti:
- Botnm2
+ BotnM2
+
+:Gagnatýpa:
+ rauntala 
+ 
+:Uppruni:
+ Innlesið gildi  (ekki null)
+ 
+:Birtingarform:  
+ [Botnm2] 0,0 m
+ 
+Flatarmál botnplötu
+~~~~~~~~~~~~~~~~~~~~
+  
+:Skilgreining:
+ Flatarmál botnplötu sem liggur að jörð
+
+:Skýring:
+   *Ath ekki sama og núverandi botnflatarmál sem er núna heildar brúttóflatarmál byggingar.*
+   Hlutfall á milli flatarmáls og ummáls byggingar segir til um hversu mikið flækjustig er í byggingunni.
+
+:Tilgangur:
+  
+
+:Tækniheiti:
+ BotnM3
+ 
+:Stuttheiti:
+ BotnM3
 
 :Gagnatýpa:
  rauntala 
