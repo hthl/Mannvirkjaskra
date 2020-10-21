@@ -68,7 +68,7 @@ Ummál botnplötu
  Innlesið gildi  (ekki null)
  
 :Birtingarform:  
- [*Botnm2* m] 0,0 m
+ [*BotnM* m] 0,0 m
  
 Flatarmál botnplötu
 ~~~~~~~~~~~~~~~~~~~~
@@ -96,7 +96,7 @@ Flatarmál botnplötu
  Innlesið gildi  (ekki null)
  
 :Birtingarform:  
- [*Botnm2* m2] 0,0 m²
+ [*Botnm2* m²] 0,0 m²
  
 Flatarmál útveggja
 ~~~~~~~~~~~~~~~~~~~~
@@ -152,7 +152,7 @@ Flatarmál botnplötu
  Innlesið gildi  (ekki null)
  
 :Birtingarform:  
- [Botnm2 m2] 0,0 m²
+ [Botnm2 m²] 0,0 m²
  
 Flatarmál veggopa
 ~~~~~~~~~~~~~~~~~~~~
