@@ -244,7 +244,9 @@ Flatarmál berandi platna
 :Skýring:
   Berandi plötur eru láréttir millifletir
   
-.. todo::
+.. admonition:: Todo
+    :class: warning
+   
    Skýra greinarmun á berandi plötu og láréttum millifleti
 
 :Tilgangur:
