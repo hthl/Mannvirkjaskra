@@ -234,6 +234,36 @@ Flatarmál þakopa
  
 :Birtingarform:  
  [*ThakOpM2* m²] 0,0 m²
+ 
+Flatarmál berandi platna
+~~~~~~~~~~~~~~~~~~~~
+  
+:Skilgreining:
+ Flatarmál berandi platna í byggingu
+
+:Skýring:
+  Berandi plötur eru láréttir millifletir
+  
+.. todo::
+   Skýra greinarmun á berandi plötu og láréttum millifleti
+
+:Tilgangur:
+  Tilgangur með skráningu er að reikna byggingarkostnað og hitatap
+  
+:Tækniheiti:
+ ThakOpM2
+ 
+:Stuttheiti:
+ ThakOpM2
+
+:Gagnatýpa:
+ pósitív rauntala 
+ 
+:Uppruni:
+ Innlesið gildi  (ekki null)
+ 
+:Birtingarform:  
+ [*ThakOpM2* m²] 0,0 m²
 
 Vensl
 -----
