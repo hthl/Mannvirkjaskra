@@ -41,7 +41,7 @@ Byggingarnúmer
  Framkallað gildi
 
 :Birtingarform:  
- [B-BYGNR] B-000000
+ [B-*BYGNR*] B-000000
  
 Ummál botnplötu
 ~~~~~~~~~~~~~~~~~~~~
@@ -56,10 +56,10 @@ Ummál botnplötu
   
 
 :Tækniheiti:
- BotnM2
+ BotnM
  
 :Stuttheiti:
- BotnM2
+ BotnM
 
 :Gagnatýpa:
  rauntala 
@@ -68,7 +68,7 @@ Ummál botnplötu
  Innlesið gildi  (ekki null)
  
 :Birtingarform:  
- [Botnm2 m] 0,0 m
+ [*Botnm2* m] 0,0 m
  
 Flatarmál botnplötu
 ~~~~~~~~~~~~~~~~~~~~
@@ -84,10 +84,10 @@ Flatarmál botnplötu
   Tilgangur með skráningu er að finna rúmmál á botnplötu mannvirkis
 
 :Tækniheiti:
- BotnM3
+ BotnM2
  
 :Stuttheiti:
- BotnM3
+ BotnM2
 
 :Gagnatýpa:
  rauntala 
@@ -96,7 +96,7 @@ Flatarmál botnplötu
  Innlesið gildi  (ekki null)
  
 :Birtingarform:  
- [Botnm3 m2] 0,0 m²
+ [*Botnm2* m2] 0,0 m²
  
 Flatarmál útveggja
 ~~~~~~~~~~~~~~~~~~~~
@@ -123,7 +123,7 @@ Flatarmál útveggja
  Innlesið gildi  (ekki null)
  
 :Birtingarform:  
- [Utveggirm2 m²] 0,0 m²
+ [*Utveggirm2* m²] 0,0 m²
  
  
 Flatarmál botnplötu
@@ -140,10 +140,10 @@ Flatarmál botnplötu
   Tilgangur með skráningu er að finna rúmmál á botnplötu mannvirkis
 
 :Tækniheiti:
- BotnM3
+ BotnM2
  
 :Stuttheiti:
- BotnM3
+ BotnM2
 
 :Gagnatýpa:
  rauntala 
@@ -152,7 +152,7 @@ Flatarmál botnplötu
  Innlesið gildi  (ekki null)
  
 :Birtingarform:  
- [Botnm3 m2] 0,0 m²
+ [Botnm2 m2] 0,0 m²
  
 Flatarmál veggopa
 ~~~~~~~~~~~~~~~~~~~~
