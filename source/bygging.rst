@@ -123,7 +123,63 @@ Flatarmál útveggja
  Innlesið gildi  (ekki null)
  
 :Birtingarform:  
- [Utveggirm2 m2] 0,0 m²
+ [Utveggirm2 m²] 0,0 m²
+ 
+ 
+Flatarmál botnplötu
+~~~~~~~~~~~~~~~~~~~~
+  
+:Skilgreining:
+ Flatarmál botnplötu sem liggur að jörð
+
+:Skýring:
+   *Ath ekki sama og núverandi botnflatarmál sem er núna heildar brúttóflatarmál byggingar.*
+   Hlutfall á milli flatarmáls og ummáls byggingar segir til um hversu mikið flækjustig er í byggingunni.
+
+:Tilgangur:
+  Tilgangur með skráningu er að finna rúmmál á botnplötu mannvirkis
+
+:Tækniheiti:
+ BotnM3
+ 
+:Stuttheiti:
+ BotnM3
+
+:Gagnatýpa:
+ rauntala 
+ 
+:Uppruni:
+ Innlesið gildi  (ekki null)
+ 
+:Birtingarform:  
+ [Botnm3 m2] 0,0 m²
+ 
+Flatarmál veggopa
+~~~~~~~~~~~~~~~~~~~~
+  
+:Skilgreining:
+ Nettóflatarmál opa í útveggjum byggingar
+
+:Skýring:
+   Flatarmál glugga, hurða og annarra opa í útveggjum byggingar
+
+:Tilgangur:
+  Tilgangur með skráningu er að reikna byggingarkostnað og hitatap
+  
+:Tækniheiti:
+ VeggOpm2
+ 
+:Stuttheiti:
+ VeggOpm2
+
+:Gagnatýpa:
+ pósitív rauntala 
+ 
+:Uppruni:
+ Innlesið gildi  (ekki null)
+ 
+:Birtingarform:  
+ [VeggOpm2 m²] 0,0 m²
 
 Vensl
 -----
