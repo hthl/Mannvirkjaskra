@@ -15,7 +15,7 @@ Skilgreining
 Hlutverk
 --------
 
-Hlutverk byggingar er ...
+Hlutverk byggingar er ... blabla
 
 Eigindi
 -------
