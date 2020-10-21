@@ -42,6 +42,29 @@ Byggingarnúmer
 
 :Birtingarform:  
  [B-BYGNR] B-000000
+ 
+Ummál botnplötu
+~~~~~~~~~~~~~~~~~~~~
+  
+:Skilgreining:
+ Ummál botnplötu sem liggur að jörð
+
+:Skýring:
+
+:Tækniheiti:
+ BotnM2
+ 
+:Stuttheiti:
+ Botnm2
+
+:Gagnatýpa:
+ rauntala 
+ 
+:Uppruni:
+ Innlesið gildi  (ekki null)
+ 
+:Birtingarform:  
+ [Botnm2] 0,0 m
 
 Vensl
 -----
