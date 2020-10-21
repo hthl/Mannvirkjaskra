@@ -244,10 +244,7 @@ Flatarmál berandi platna
 :Skýring:
   Berandi plötur eru láréttir millifletir
   
-.. admonition:: Todo
-    :class: warning
-   
-   Skýra greinarmun á berandi plötu og láréttum millifleti
+.. note:: Skýra greinarmun á berandi plötu og láréttum millifleti
 
 :Tilgangur:
   Tilgangur með skráningu er að reikna byggingarkostnað og hitatap
