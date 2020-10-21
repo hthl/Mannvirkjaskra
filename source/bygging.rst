@@ -81,7 +81,7 @@ Flatarmál botnplötu
    Hlutfall á milli flatarmáls og ummáls byggingar segir til um hversu mikið flækjustig er í byggingunni.
 
 :Tilgangur:
-  
+  Tilgangur með skráningu er að finna rúmmál á botnplötu mannvirkis
 
 :Tækniheiti:
  BotnM3
@@ -97,6 +97,33 @@ Flatarmál botnplötu
  
 :Birtingarform:  
  [Botnm3 m2] 0,0 m²
+ 
+Flatarmál útveggja
+~~~~~~~~~~~~~~~~~~~~
+  
+:Skilgreining:
+ Nettóflatarmál yfirborðs útveggja
+
+:Skýring:
+   Flatarmál útveggja er mælt frá efri brún botnplötu
+
+:Tilgangur:
+  Tilgangur með skráningu er að reikna byggingarkostnað og viðhaldskostnað
+  
+:Tækniheiti:
+ Utveggirm2
+ 
+:Stuttheiti:
+ Utvm2
+
+:Gagnatýpa:
+ pósitív rauntala 
+ 
+:Uppruni:
+ Innlesið gildi  (ekki null)
+ 
+:Birtingarform:  
+ [Utveggirm2 m2] 0,0 m²
 
 Vensl
 -----
