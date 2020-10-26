@@ -17,62 +17,64 @@ Hlutverk
 
 Hlutverk mannvirkishluta er að skipta mannvirki niður í hluta eftir framkvæmdaráföngum og mörkum landeigna. Mannvirkishlutinn myndar heild sem útreikningur hlutfallstalna fasteignaréttinda byggir á. Mannvirkishluti er "Abstract" hugtak sem hefur sértækar útfærslur sem ráðast eftir þörfum mismunandi mannvirkja.
 
+
 .. _Mannvirkishluti_eigindi:
-Eigindi
--------
 
-Mannvirkishlutanúmer
-~~~~~~~~~~~~~~~~~~~~
-  
-:Skilgreining:
- Mannvirkishlutanúmer er upplýsingalaust einkvæmt auðkenni mannvirkishluta
+   Eigindi
+   -------
 
-:Skýring:
+   Mannvirkishlutanúmer
+   ~~~~~~~~~~~~~~~~~~~~
 
-:Tækniheiti:
- MannvirkishlutiNr
-:Stuttheiti:
- MVHLNR
+   :Skilgreining:
+    Mannvirkishlutanúmer er upplýsingalaust einkvæmt auðkenni mannvirkishluta
 
-:Gagnatýpa:
- raðnúmer innan mannvirkis
- pósitív heiltala í hækkandi röð sem byrjar á 1 
+   :Skýring:
 
-:Uppruni:
- Framkallað gildi
+   :Tækniheiti:
+    MannvirkishlutiNr
+   :Stuttheiti:
+    MVHLNR
 
-:Birtingarform:  
- [MVNR:MVHLNR] MV-000000:1
-   
-Tegund
-~~~~~~~~~~~~~~~~~~~~ 
+   :Gagnatýpa:
+    raðnúmer innan mannvirkis
+    pósitív heiltala í hækkandi röð sem byrjar á 1 
 
-:Skilgreining:
-   Tegund mannvirkishluta. 
-:Skýring:
-   Tegund tilgreinir erfðavensl. Tilgreinir hvers eðlis mannvirkishlutinn er og ákveður hvaða skráningaratriði eru skráð fyrir viðkomandi tegund mannvirkishluta.    Tegundir mannvirkishluta eru Byggingaráfangi, Flötur, Fasteignaréttindi. Möguleiki er á að bæta við fleiri tegundum mannvirkishluta þegar þörf kemur upp á að skrá nýja tegund mannvirkis.
-        
-:Tækniheiti:
+   :Uppruni:
+    Framkallað gildi
+
+   :Birtingarform:  
+    [MVNR:MVHLNR] MV-000000:1
+
    Tegund
+   ~~~~~~~~~~~~~~~~~~~~ 
 
-:Stuttheiti:
-   TEG
+   :Skilgreining:
+      Tegund mannvirkishluta. 
+   :Skýring:
+      Tegund tilgreinir erfðavensl. Tilgreinir hvers eðlis mannvirkishlutinn er og ákveður hvaða skráningaratriði eru skráð fyrir viðkomandi tegund mannvirkishluta.    Tegundir mannvirkishluta eru Byggingaráfangi, Flötur, Fasteignaréttindi. Möguleiki er á að bæta við fleiri tegundum mannvirkishluta þegar þörf kemur upp á að skrá nýja tegund mannvirkis.
 
-:Gagnatýpa:
-   Enumeration 
+   :Tækniheiti:
+      Tegund
 
-   .. csv-table:: 
-     :header: "Kóði", "Skilgreining"
+   :Stuttheiti:
+      TEG
 
-     "BAF", "Byggingaráfangi"
-     "FL", "Flötur"
-     "FR", "Fasteignaréttindi"
+   :Gagnatýpa:
+      Enumeration 
 
-:Uppruni:
-   Skráð gildi
+      .. csv-table:: 
+        :header: "Kóði", "Skilgreining"
 
-:Birtingarform:
-   [Tegund] BAF
+        "BAF", "Byggingaráfangi"
+        "FL", "Flötur"
+        "FR", "Fasteignaréttindi"
+
+   :Uppruni:
+      Skráð gildi
+
+   :Birtingarform:
+      [Tegund] BAF
 
 Vensl
 -----
