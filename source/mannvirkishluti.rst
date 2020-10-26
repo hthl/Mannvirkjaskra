@@ -1,3 +1,5 @@
+.. _my-reference-label:
+
 Mannvirkishluti 
 ===============
 
@@ -17,8 +19,6 @@ Hlutverk
 
 Hlutverk mannvirkishluta er að skipta mannvirki niður í hluta eftir framkvæmdaráföngum og mörkum landeigna. Mannvirkishlutinn myndar heild sem útreikningur hlutfallstalna fasteignaréttinda byggir á. Mannvirkishluti er "Abstract" hugtak sem hefur sértækar útfærslur sem ráðast eftir þörfum mismunandi mannvirkja.
 
-
-.. _my-reference-label:
 
 Eigindi
 -------
