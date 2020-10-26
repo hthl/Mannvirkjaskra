@@ -17,9 +17,9 @@ Hlutverk byggingaráfanga er að geyma upplýsingar um einstaka byggingaráfanga
 Eigindi
 -------
 
-Byggingaráfangi er Mannvirkishluti og ber því öll eigindi mannvirkishluta 
+Byggingaráfangi er Mannvirkishluti og ber því öll :ref:`eigindi mannvirkishluta<mannvirkishluti_eigindi>`.
 
-:ref:`my-reference-label`.
+:ref:`mannvirkishluti_eigindi`.
 
 Byggingaráfanganúmer
 ~~~~~~~~~~~~~~~~~~~~
