@@ -20,61 +20,61 @@ Hlutverk mannvirkishluta er að skipta mannvirki niður í hluta eftir framkvæm
 
 .. _Mannvirkishluti_eigindi:
 
-   Eigindi
-   -------
+Eigindi
+-------
 
-   Mannvirkishlutanúmer
-   ~~~~~~~~~~~~~~~~~~~~
+Mannvirkishlutanúmer
+~~~~~~~~~~~~~~~~~~~~
 
-   :Skilgreining:
-    Mannvirkishlutanúmer er upplýsingalaust einkvæmt auðkenni mannvirkishluta
+:Skilgreining:
+ Mannvirkishlutanúmer er upplýsingalaust einkvæmt auðkenni mannvirkishluta
 
-   :Skýring:
+:Skýring:
 
-   :Tækniheiti:
-    MannvirkishlutiNr
-   :Stuttheiti:
-    MVHLNR
+:Tækniheiti:
+ MannvirkishlutiNr
+:Stuttheiti:
+ MVHLNR
 
-   :Gagnatýpa:
-    raðnúmer innan mannvirkis
-    pósitív heiltala í hækkandi röð sem byrjar á 1 
+:Gagnatýpa:
+ raðnúmer innan mannvirkis
+ pósitív heiltala í hækkandi röð sem byrjar á 1 
 
-   :Uppruni:
-    Framkallað gildi
+:Uppruni:
+ Framkallað gildi
 
-   :Birtingarform:  
-    [MVNR:MVHLNR] MV-000000:1
+:Birtingarform:  
+ [MVNR:MVHLNR] MV-000000:1
 
+Tegund
+~~~~~~~~~~~~~~~~~~~~ 
+
+:Skilgreining:
+   Tegund mannvirkishluta. 
+:Skýring:
+   Tegund tilgreinir erfðavensl. Tilgreinir hvers eðlis mannvirkishlutinn er og ákveður hvaða skráningaratriði eru skráð fyrir viðkomandi tegund mannvirkishluta.    Tegundir mannvirkishluta eru Byggingaráfangi, Flötur, Fasteignaréttindi. Möguleiki er á að bæta við fleiri tegundum mannvirkishluta þegar þörf kemur upp á að skrá nýja tegund mannvirkis.
+
+:Tækniheiti:
    Tegund
-   ~~~~~~~~~~~~~~~~~~~~ 
 
-   :Skilgreining:
-      Tegund mannvirkishluta. 
-   :Skýring:
-      Tegund tilgreinir erfðavensl. Tilgreinir hvers eðlis mannvirkishlutinn er og ákveður hvaða skráningaratriði eru skráð fyrir viðkomandi tegund mannvirkishluta.    Tegundir mannvirkishluta eru Byggingaráfangi, Flötur, Fasteignaréttindi. Möguleiki er á að bæta við fleiri tegundum mannvirkishluta þegar þörf kemur upp á að skrá nýja tegund mannvirkis.
+:Stuttheiti:
+   TEG
 
-   :Tækniheiti:
-      Tegund
+:Gagnatýpa:
+   Enumeration 
 
-   :Stuttheiti:
-      TEG
+   .. csv-table:: 
+     :header: "Kóði", "Skilgreining"
 
-   :Gagnatýpa:
-      Enumeration 
+     "BAF", "Byggingaráfangi"
+     "FL", "Flötur"
+     "FR", "Fasteignaréttindi"
 
-      .. csv-table:: 
-        :header: "Kóði", "Skilgreining"
+:Uppruni:
+   Skráð gildi
 
-        "BAF", "Byggingaráfangi"
-        "FL", "Flötur"
-        "FR", "Fasteignaréttindi"
-
-   :Uppruni:
-      Skráð gildi
-
-   :Birtingarform:
-      [Tegund] BAF
+:Birtingarform:
+   [Tegund] BAF
 
 Vensl
 -----
