@@ -19,7 +19,7 @@ Eigindi
 
 Byggingaráfangi er Mannvirkishluti og ber því öll eigindi mannvirkishluta 
 
-:ref:`mannvirkishluti_eigindi`
+:ref:`blabla mannvirkishluti_eigindi`
 
 Byggingaráfanganúmer
 ~~~~~~~~~~~~~~~~~~~~
