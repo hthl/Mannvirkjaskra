@@ -12,4 +12,5 @@ Hugtakalíkan Mannvirkjaskrár
    flotur.rst
    rekstrareining.rst
    notkunareining.rst
+   template.rst
  
