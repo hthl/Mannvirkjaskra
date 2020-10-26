@@ -1,4 +1,4 @@
-Sniðmát fyrir hugtakaskilgreiningu 
+Hugtak 
 ==================================
 
 .. image:: img/hugtak.svg 
@@ -27,37 +27,19 @@ Eigindi 1
  Eigindi 1 er ...
 
 :Skýring:
-  Skýring
+  Nánari skýring á hugtaki eða athugasemdir varðandi hugtakaskilgreininguna
 :Tækniheiti:
- Tækniheiti
+ Heiti hugtaks eins og það kemur fram í tölvukerfum, t.d í forritskóða, skeytum eða gagnagrunni.
+ Inniheldur ekki íslensk sértákn vegna takmarkana ýmissa tölvukerfa.
 :Stuttheiti:
- Stuttheiti
+ Stutt tækniheiti. Skammstöfun hugtaks sem nota má þegar tækniheiti er of langt. T.d í samsettum heitum á venslum hugtaka, eða í gagnagrunnum.
 :Gagnatýpa:
- Gagnatýpa
+ Gagnatýpa hugtaks og skorður sem um það gilda.
 :Uppruni:
- Uppruni
+ Uppruni skráningar. Hvar verða gögnin til og hver býr þau til.
 :Birtingarform:  
- Birtingarform
+ Birtingarform eigindis
    
-Eigindi2
-~~~~~~~~~~~~~~~~~~~~ 
-
-:Skilgreining:
- Eigindi 2 er ...
-
-:Skýring:
- Skýring
-:Tækniheiti:
- Tækniheiti
-:Stuttheiti:
- Stuttheiti
-:Gagnatýpa:
- Gagnatýpa
-:Uppruni:
- Uppruni
-:Birtingarform:  
- Birtingarform
-
 Vensl
 -----
 
