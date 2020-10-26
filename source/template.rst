@@ -47,7 +47,7 @@ Vensl 1
 ~~~~~~~~~
   
 .. figure:: img/vensl.svg 
-  :width: 100
+  :width: 300
 
   Vensl x og y
 
