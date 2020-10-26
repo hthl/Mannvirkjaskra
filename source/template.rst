@@ -49,6 +49,6 @@ Vensl 1
 .. figure:: img/vensl.svg 
   :width: 300
 
-  Vensl x og y
+  Skýringartexti
 
-Um vensl 
+Lýsing á venslum hugtaka
