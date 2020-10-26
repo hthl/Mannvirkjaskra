@@ -1,5 +1,5 @@
-Hugtak 
-===============
+Sniðmát fyrir hugtakaskilgreiningu 
+==================================
 
 .. image:: img/hugtak.svg 
    :width: 100
