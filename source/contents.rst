@@ -4,7 +4,8 @@ Hugtakalíkan Mannvirkjaskrár
 .. toctree::
    :maxdepth: 3
    :caption: Hugtök:
-
+   
+   mannvirkjaskra.rst
    mannvirki.rst
    mannvirkishluti.rst
    bygging.rst
