@@ -22,6 +22,6 @@ Skjal þetta er í vinnslu og verður uppfært eftir því sem verkefninu um upp
 Yfirlitsmynd hugtaka
 ----------------------------
 .. figure:: img/mannvirkjaskra.svg
-   :width: 1200
-   :figwidth: 1200
+   :width: 800
+   :figwidth: 800
    :alt: Yfirlitsmynd hugtaka
