@@ -24,4 +24,5 @@ Yfirlitsmynd hugtaka
 .. figure:: img/mannvirkjaskra.svg
    :width: 800
    :figwidth: 800
+   :align: center
    :alt: Yfirlitsmynd hugtaka
