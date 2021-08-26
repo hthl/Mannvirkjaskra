@@ -15,6 +15,10 @@ Hugtakalíkan mannvirkjaskrár inniheldur skilgreiningar á þeim hugtökum sem 
 
 Tilgangur hugtakalíkans er að ná fram sameiginlegum skilningi á milli þeirra aðila sem koma að uppbyggingu mannvirkjaskrár eða annarra aðila sem smíða kerfi sem reiða sig á mannvirkjaskrá. Hugtakalíkanið er undirstaða undir tæknilega útfærslu á mannvirkjaskrá og setur henni skorður.
 
+Staða skjals
+---------------
+Skjal þetta er í vinnslu og verður uppfært eftir því sem verkefninu um uppbyggingu mannvirkjaskrár miðar áfram. Stefnt er að því að fyrsta útgáfa af hugtakalíkani verið tilbúið 1. október 2021.
+
 Yfirlitsmynd hugtaka
 ----------------------------
 .. figure:: img/mannvirkjaskra.svg
