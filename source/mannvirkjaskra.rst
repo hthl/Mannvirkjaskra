@@ -17,5 +17,5 @@ Tilgangur hugtakalíkans er að ná fram sameiginlegum skilningi á milli þeirr
 
 Yfirlitsmynd hugtaka
 ----------------------------
-.. image:: img/mannvirkjaskra.svg 
-   :width: 100
+.. figure:: img/mannvirkjaskra.svg 
+   :alt: Sértækar útfærslur mannvirkishluta
