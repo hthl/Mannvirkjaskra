@@ -21,4 +21,6 @@ mannvirkjaskra.rst
    rekstrareining.rst
    
    notkunareining.rst
+   
+   rymi.rst
  

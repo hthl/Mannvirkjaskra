@@ -28,6 +28,7 @@ author = 'hth@skra.is'
 # extensions coming with Sphinx (named 'sphinx.ext.*') or your custom
 # ones.
 extensions = [
+  'sphinx.ext.todo'
 ]
 
 # Add any paths that contain templates here, relative to this directory.
@@ -51,4 +52,4 @@ html_theme = 'sphinx_rtd_theme'
 # so a file named "default.css" will overwrite the builtin "default.css".
 html_static_path = ['_static']
 
-todo_include_todos = True
+todo_include_todos = False
