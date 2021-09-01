@@ -1,4 +1,3 @@
-
 Hugtakalíkan Mannvirkjaskrár
 ==========================================
 
@@ -21,6 +20,8 @@ mannvirkjaskra.rst
    rekstrareining.rst
    
    notkunareining.rst
+
+   haed.rst
    
    rymi.rst
  
