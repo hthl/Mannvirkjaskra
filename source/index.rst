@@ -1,4 +1,3 @@
-
 Hugtakalíkan Mannvirkjaskrár
 ==========================================
 
