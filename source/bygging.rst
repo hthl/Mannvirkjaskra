@@ -42,6 +42,29 @@ Byggingarnúmer
 
 :Birtingarform:  
  [B-*ByggingNr*] B-000000
+
+Byggingarform
+~~~~~~~~~~~~~~~~~~~~
+  
+:Skilgreining:
+ Byggingarform er flokkun
+
+:Skýring:
+
+:Tækniheiti:
+ 
+ 
+:Stuttheiti:
+ 
+
+:Gagnatýpa:
+ strengur (enum listi)
+
+:Uppruni:
+ Innlesið gildi
+
+:Birtingarform:  
+ "Íbúðarbygging"
  
 Ummál botnplötu
 ~~~~~~~~~~~~~~~~~~~~
@@ -125,35 +148,7 @@ Flatarmál útveggja
 :Birtingarform:  
  [*Utveggirm2* m²] 0,0 m²
  
- 
-Flatarmál botnplötu
-~~~~~~~~~~~~~~~~~~~~
   
-:Skilgreining:
- Flatarmál botnplötu sem liggur að jörð
-
-:Skýring:
-   *Ath ekki sama og núverandi botnflatarmál sem er núna heildar brúttóflatarmál byggingar.*
-   Hlutfall á milli flatarmáls og ummáls byggingar segir til um hversu mikið flækjustig er í byggingunni.
-
-:Tilgangur:
-  Tilgangur með skráningu er að finna rúmmál á botnplötu mannvirkis
-
-:Tækniheiti:
- BotnM2
- 
-:Stuttheiti:
- BotnM2
-
-:Gagnatýpa:
- rauntala 
- 
-:Uppruni:
- Innlesið gildi  (ekki null)
- 
-:Birtingarform:  
- [Botnm2 m²] 0,0 m²
- 
 Flatarmál veggopa
 ~~~~~~~~~~~~~~~~~~~~
   
@@ -263,6 +258,116 @@ Flatarmál berandi platna
  
 :Birtingarform:  
  [*BerandiPlataM2* m²] 0,0 m²
+ 
+Flatarmál fylling platna
+~~~~~~~~~~~~~~~~~~~~
+  
+:Skilgreining:
+ Flatarmál fylling platna í byggingu
+
+:Skýring:
+  
+
+:Tilgangur:
+  
+  
+:Tækniheiti:
+ 
+ 
+:Stuttheiti:
+ 
+
+:Gagnatýpa:
+ pósitív rauntala 
+ 
+:Uppruni:
+ 
+ 
+:Birtingarform:  
+ 
+ 
+Flatarmál kaldar platna
+~~~~~~~~~~~~~~~~~~~~
+  
+:Skilgreining:
+ 
+
+:Skýring:
+  
+
+:Tilgangur:
+  
+  
+:Tækniheiti:
+ 
+ 
+:Stuttheiti:
+ 
+
+:Gagnatýpa:
+ pósitív rauntala 
+ 
+:Uppruni:
+ 
+ 
+:Birtingarform:  
+ 
+ 
+Ummál
+~~~~~~~~~~~~~~~~~~~~
+  
+:Skilgreining:
+ 
+
+:Skýring:
+  
+
+:Tilgangur:
+  
+  
+:Tækniheiti:
+ 
+ 
+:Stuttheiti:
+ 
+
+:Gagnatýpa:
+ pósitív rauntala 
+ 
+:Uppruni:
+ 
+ 
+:Birtingarform:  
+ 
+ 
+ 
+Brúttó ummál
+~~~~~~~~~~~~~~~~~~~~
+  
+:Skilgreining:
+ 
+
+:Skýring:
+  
+
+:Tilgangur:
+  
+  
+:Tækniheiti:
+ 
+ 
+:Stuttheiti:
+ 
+
+:Gagnatýpa:
+ pósitív rauntala 
+ 
+:Uppruni:
+ 
+ 
+:Birtingarform:  
+ 
+ 
 
 Vensl
 -----
