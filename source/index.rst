@@ -8,4 +8,5 @@ Hugtakalíkan Mannvirkjaskrár
    mannvirkjaskra.rst
    
    hugtok.rst
+   
  
