@@ -9,7 +9,7 @@ Verkefnið verður unnið í nánu samstarfi ráðuneytanna, Þjóðskrár Ísla
 
 Ráðgert er að ný mannvirkjaskrá verði komin í gagnið 1. júní  2022.
 
-Hugtakalíkan mannvirkjaskrár
+Um Hugtakalíkan
 ----------------------------
 Hugtakalíkan mannvirkjaskrár inniheldur skilgreiningar á þeim hugtökum sem notuð eru í mannvirkjaskráningu. Líkanið er afmörkun á viðfangsefni mannvirkjaskrár og lýsing á þeim hlutum sem þar koma fyrir. 
 
@@ -18,11 +18,3 @@ Tilgangur hugtakalíkans er að ná fram sameiginlegum skilningi á milli þeirr
 Staða skjals
 ---------------
 Skjal þetta er í vinnslu og verður uppfært eftir því sem verkefninu um uppbyggingu mannvirkjaskrár miðar áfram. Stefnt er að því að fyrsta útgáfa af hugtakalíkani verið tilbúið 1. október 2021.
-
-Yfirlitsmynd hugtaka
-----------------------------
-.. figure:: img/mannvirkjaskra.svg
-   :width: 800
-   :figwidth: 800
-   :align: center
-   :alt: Yfirlitsmynd hugtaka
