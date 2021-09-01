@@ -1,5 +1,5 @@
 Hugtakalíkan Mannvirkjaskrár
-==========================================
+============================
 
 .. toctree::
    :maxdepth: 3
@@ -14,4 +14,6 @@ Hugtakalíkan Mannvirkjaskrár
    rekstrareining.rst
    notkunareining.rst
    template.rst
+   haed.rst
+   rymi.rst
  
