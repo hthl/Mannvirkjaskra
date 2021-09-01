@@ -20,6 +20,7 @@
 project = 'Mannvirkjaskra'
 copyright = '2020, hth@skra.is'
 author = 'hth@skra.is'
+master_doc = 'index'
 
 
 # -- General configuration ---------------------------------------------------
