@@ -77,6 +77,67 @@ Tegund
 :Birtingarform:
    [Tegund] BAF
 
+ 
+Ist 120 flokkur
+~~~~~~~~~~~~~~~
+  
+ .. todo::
+  Vantar að klára eigindi
+  
+:Skilgreining:
+ 
+
+:Skýring:
+  
+
+:Tilgangur:
+  
+  
+:Tækniheiti:
+ 
+ 
+:Stuttheiti:
+ 
+
+:Gagnatýpa:
+ String (enum) 
+ 
+:Uppruni:
+ 
+ 
+:Birtingarform: 
+ 
+ 
+Eignarhlutfall
+~~~~~~~~~~~~~~
+  
+ .. todo::
+  Vantar að klára eigindi
+  
+:Skilgreining:
+ 
+
+:Skýring:
+  
+
+:Tilgangur:
+  
+  
+:Tækniheiti:
+ 
+ 
+:Stuttheiti:
+ 
+
+:Gagnatýpa:
+ Pósitív Rauntala 
+ 
+:Uppruni:
+ 
+ 
+:Birtingarform: 
+ 
+
 Vensl
 -----
 

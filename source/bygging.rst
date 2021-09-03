@@ -21,7 +21,7 @@ Eigindi
 -------
 
 Byggingarnúmer
-~~~~~~~~~~~~~~~~~~~~
+~~~~~~~~~~~~~~
   
 :Skilgreining:
  Byggingarnúmer er upplýsingalaust einkvæmt auðkenni mannvirkishluta
@@ -44,7 +44,7 @@ Byggingarnúmer
  [B-*ByggingNr*] B-000000
 
 Byggingarform
-~~~~~~~~~~~~~~~~~~~~
+~~~~~~~~~~~~~
   
 :Skilgreining:
  Byggingarform er flokkun
@@ -67,7 +67,7 @@ Byggingarform
  "Íbúðarbygging"
  
 Ummál botnplötu
-~~~~~~~~~~~~~~~~~~~~
+~~~~~~~~~~~~~~~
   
 :Skilgreining:
  Ummál botnplötu sem liggur að jörð
@@ -94,7 +94,7 @@ Ummál botnplötu
  [*BotnM* m] 0,0 m
  
 Flatarmál botnplötu
-~~~~~~~~~~~~~~~~~~~~
+~~~~~~~~~~~~~~~~~~~
   
 :Skilgreining:
  Flatarmál botnplötu sem liggur að jörð
@@ -122,7 +122,7 @@ Flatarmál botnplötu
  [*Botnm2* m²] 0,0 m²
  
 Flatarmál útveggja
-~~~~~~~~~~~~~~~~~~~~
+~~~~~~~~~~~~~~~~~~
   
 :Skilgreining:
  Nettóflatarmál yfirborðs útveggja
@@ -150,7 +150,7 @@ Flatarmál útveggja
  
   
 Flatarmál veggopa
-~~~~~~~~~~~~~~~~~~~~
+~~~~~~~~~~~~~~~~~
   
 :Skilgreining:
  Nettóflatarmál opa í útveggjum byggingar
@@ -177,7 +177,7 @@ Flatarmál veggopa
  [*VeggOpm2* m²] 0,0 m²
  
 Flatarmál þaks
-~~~~~~~~~~~~~~~~~~~~
+~~~~~~~~~~~~~~
   
 :Skilgreining:
  Raunflötur þaks
@@ -204,7 +204,7 @@ Flatarmál þaks
  [*ThakM2* m²] 0,0 m²
  
 Flatarmál þakopa
-~~~~~~~~~~~~~~~~~~~~
+~~~~~~~~~~~~~~~~
   
 :Skilgreining:
  Flatarmál opa í þaki
@@ -231,7 +231,7 @@ Flatarmál þakopa
  [*ThakOpM2* m²] 0,0 m²
  
 Flatarmál berandi platna
-~~~~~~~~~~~~~~~~~~~~
+~~~~~~~~~~~~~~~~~~~~~~~~
   
 :Skilgreining:
  Flatarmál berandi platna í byggingu
@@ -260,7 +260,7 @@ Flatarmál berandi platna
  [*BerandiPlataM2* m²] 0,0 m²
  
 Flatarmál fylling platna
-~~~~~~~~~~~~~~~~~~~~
+~~~~~~~~~~~~~~~~~~~~~~~~
   
 :Skilgreining:
  Flatarmál fylling platna í byggingu
@@ -287,7 +287,7 @@ Flatarmál fylling platna
  
  
 Flatarmál kaldar platna
-~~~~~~~~~~~~~~~~~~~~
+~~~~~~~~~~~~~~~~~~~~~~~
   
 :Skilgreining:
  
@@ -314,7 +314,7 @@ Flatarmál kaldar platna
  
  
 Ummál
-~~~~~~~~~~~~~~~~~~~~
+~~~~~
   
 :Skilgreining:
  
@@ -342,7 +342,7 @@ Ummál
  
  
 Brúttó ummál
-~~~~~~~~~~~~~~~~~~~~
+~~~~~~~~~~~~
   
 :Skilgreining:
  

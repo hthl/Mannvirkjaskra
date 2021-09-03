@@ -39,8 +39,11 @@ Byggingaráfanganúmer
  [BYGNR:BAFNR] B-000000:1
  
 Brúttó rúmmál
-~~~~~~~~~~~~~~~~~~~~
+~~~~~~~~~~~~~
   
+ .. todo::
+  Vantar að klára eigindi
+
 :Skilgreining:
  
 
@@ -66,7 +69,10 @@ Brúttó rúmmál
  
 
 Byggingarstig flokkur
-~~~~~~~~~~~~~~~~~~~~
+~~~~~~~~~~~~~~~~~~~~~
+  
+ .. todo::
+  Vantar að klára eigindi
   
 :Skilgreining:
  
@@ -93,7 +99,10 @@ Byggingarstig flokkur
  
 
 Byggingarár
-~~~~~~~~~~~~~~~~~~~~
+~~~~~~~~~~~
+  
+ .. todo::
+  Vantar að klára eigindi
   
 :Skilgreining:
  
@@ -120,7 +129,10 @@ Byggingarár
  
  
 Flatarmál milliflatar
-~~~~~~~~~~~~~~~~~~~~
+~~~~~~~~~~~~~~~~~~~~~
+  
+ .. todo::
+  Vantar að klára eigindi
   
 :Skilgreining:
  
@@ -149,6 +161,9 @@ Flatarmál milliflatar
 Flatarmál botnflatar
 ~~~~~~~~~~~~~~~~~~~~
   
+ .. todo::
+  Vantar að klára eigindi
+  
 :Skilgreining:
  
 
@@ -174,7 +189,10 @@ Flatarmál botnflatar
  
  
 Flatarmál brúttó flatar
-~~~~~~~~~~~~~~~~~~~~
+~~~~~~~~~~~~~~~~~~~~~~~
+  
+ .. todo::
+  Vantar að klára eigindi
   
 :Skilgreining:
  
@@ -201,7 +219,10 @@ Flatarmál brúttó flatar
  
  
 Skipta rúmmál
-~~~~~~~~~~~~~~~~~~~~
+~~~~~~~~~~~~~
+  
+ .. todo::
+  Vantar að klára eigindi
   
 :Skilgreining:
  
@@ -228,7 +249,10 @@ Skipta rúmmál
  
  
 Virkis rúmmál
-~~~~~~~~~~~~~~~~~~~~
+~~~~~~~~~~~~~
+  
+ .. todo::
+  Vantar að klára eigindi
   
 :Skilgreining:
  
@@ -255,7 +279,10 @@ Virkis rúmmál
  
  
 Hjúpflötur
-~~~~~~~~~~~~~~~~~~~~
+~~~~~~~~~~
+  
+ .. todo::
+  Vantar að klára eigindi
   
 :Skilgreining:
  
@@ -283,6 +310,6 @@ Hjúpflötur
 
 
 Vensl byggingaráfanga
---------------------
+---------------------
 
 Bygginaráfangi er mannvirkishluti af tegundinni byggingaráfangi. Byggingaráfangi tengist þeirri byggingu sem hann tilheyrir.
