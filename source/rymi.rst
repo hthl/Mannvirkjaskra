@@ -247,7 +247,14 @@ Lokunarflokkun
  
 
 :Gagnatýpa:
- Strengur (enum)
+ Enumeration 
+
+   .. csv-table:: 
+     :header: "Kóði", "Skilgreining"
+
+     "A", "Lokunarflokkur A"
+     "B", "Lokunarflokkur B"
+     "C", "Lokunarflokkur C"
  
 :Uppruni:
  
@@ -289,7 +296,16 @@ Höfuðflokkur
  
 
 :Gagnatýpa:
- Strengur (enum)
+ Enumeration 
+
+   .. csv-table:: 
+     :header: "Kóði", "Skilgreining"
+
+     "U", "Umferðarrými"
+     "T", "Tæknirými"
+     "B", "Bílageymslurými"
+     "F", "Fylgirými"
+     "V", "Afgangsrými"
  
 :Uppruni:
  
@@ -319,7 +335,7 @@ Botnflatarmál
  
 
 :Gagnatýpa:
- Strengur 
+ Pósitív rauntala  
  
 :Uppruni:
  
@@ -353,7 +369,7 @@ Flatarmál milliflatar
  
 
 :Gagnatýpa:
- Rauntala 
+ Pósitív rauntala 
  
 :Uppruni:
  
