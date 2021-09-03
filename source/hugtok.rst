@@ -14,6 +14,10 @@ Hugtakalíkan
    bygging.rst
    
    byggingarafangi.rst
+
+   haed.rst
+
+   rymi.rst
    
    flotur.rst
    
