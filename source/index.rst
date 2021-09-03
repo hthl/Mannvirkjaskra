@@ -1,27 +1,12 @@
 Hugtakalíkan Mannvirkjaskrár
 ==========================================
 
-mannvirkjaskra.rst
-
 .. toctree::
    :maxdepth: 3
-   :caption: Hugtök:
-   
-   mannvirki.rst
-   
-   mannvirkishluti.rst
-   
-   bygging.rst
-   
-   byggingarafangi.rst
-   
-   flotur.rst
-   
-   rekstrareining.rst
-   
-   notkunareining.rst
+   :caption: Efnisyfirlit:
 
-   haed.rst
+   mannvirkjaskra.rst
    
-   rymi.rst
+   hugtok.rst
+   
  
