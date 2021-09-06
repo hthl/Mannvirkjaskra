@@ -15,7 +15,8 @@ Skilgreining
 Hlutverk
 --------
 
-Hlutverk byggingar er ... blabla
+ .. todo::
+  Vantar að skilgreina hlutverk Byggingar
 
 Eigindi
 -------
@@ -97,14 +98,18 @@ Flatarmál botnplötu
 ~~~~~~~~~~~~~~~~~~~
   
 :Skilgreining:
- Flatarmál botnplötu sem liggur að jörð
+ Sá botnflötur byggingar sem liggur að jörðu auk þeirra botnflata sem skaga út fyrir hæðina fyrir neðan
 
 :Skýring:
+   Þegar hæð er stærri en hæðin sem er fyrir neðan hana verður flöturinn sem stendur út fyrir botnplata.
    *Ath ekki sama og núverandi botnflatarmál sem er núna heildar brúttóflatarmál byggingar.*
    Hlutfall á milli flatarmáls og ummáls byggingar segir til um hversu mikið flækjustig er í byggingunni.
 
 :Tilgangur:
-  Tilgangur með skráningu er að finna rúmmál á botnplötu mannvirkis
+  Heildar rúmmál byggingar skiptist í rúmmál botnplötu annarsvegar og rúmmál hæða hinsvegar. 
+  
+  .. todo::
+     Hversvegna þarf að halda sérstaklega utan um rúmmál botnplötu.
 
 :Tækniheiti:
  BotnM2
