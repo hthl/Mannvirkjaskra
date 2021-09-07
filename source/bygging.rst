@@ -106,10 +106,10 @@ Flatarmál botnplötu
    Hlutfall á milli flatarmáls og ummáls byggingar segir til um hversu mikið flækjustig er í byggingunni.
 
 :Tilgangur:
-  Heildar rúmmál byggingar skiptist í rúmmál botnplötu annarsvegar og rúmmál hæða hinsvegar. 
-  
-  .. todo::
-     Hversvegna þarf að halda sérstaklega utan um rúmmál botnplötu.
+   Bygging skiptist  í  hæðir  um  hæðarskil. Hæðarskil  eru  í  botnfleti  og  lokfleti  hverrar hæðar. 
+   Neðstu hæðarskil eru í yfirborði botnplötu byggingar. Rúmmál botnplötu liggur því utan rúmmáls hæða. 
+   Til að finna heildarrúmmál byggingar þarf því að finna rúmmál botnplötu og leggja það við rúmmál hæða.
+   Tilgangur skráningar er að reikna rúmmál botnplötu og heildarrúmmál byggingar.
 
 :Tækniheiti:
  BotnM2
