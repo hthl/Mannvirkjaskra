@@ -3,7 +3,12 @@ Rekstrareining
 
 .. admonition:: Skilgreining
 
-  Rekstrareining er hluti mannvirkis sem afmarkast ef eignarskilum og myndar eina rekstrarlega heild sem getur ýmist verið í sameign sumra, sameign allra eða séreign.
+  Rekstrareining er hluti mannvirkis sem afmarkast ef eignarskilum og myndar eina rekstrarlega heild sem getur ýmist verið í sameign sumra í byggingaráfanga, sameign allra í byggingu, sameign allra í klasa eða séreign í byggingaráfanga.
+  
+Hlutverk
+--------
+
+  Rekstrareining tengir saman öll rými byggingaráfanga sem hafa sama eignarhald svo hægt sé að reikna hlutdeild þess í byggingaráfanganum
 
 
 Eigindi Rekstrareiningar
