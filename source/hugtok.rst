@@ -14,6 +14,8 @@ Hugtakalíkan
    bygging.rst
    
    byggingarafangi.rst
+   
+   klasi.rst
 
    haed.rst
 
