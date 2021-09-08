@@ -216,7 +216,7 @@ Flatarmál þakopa
  Flatarmál opa í þaki
 
 :Skýring:
-   
+ Steypumál þakopa eða samsvarandi
 
 :Tilgangur:
   Tilgangur með skráningu er að reikna byggingarkostnað og hitatap
