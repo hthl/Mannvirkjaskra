@@ -159,10 +159,10 @@ Flatarmál veggopa
 ~~~~~~~~~~~~~~~~~
   
 :Skilgreining:
- Nettóflatarmál opa í útveggjum byggingar
+ Steypumál veggopa í útveggjum byggingar.
 
 :Skýring:
-   Flatarmál glugga, hurða og annarra opa í útveggjum byggingar
+   Flatarmál glugga-, hurða- og annarra opa í útveggjum byggingar
 
 :Tilgangur:
   Tilgangur með skráningu er að reikna byggingarkostnað og hitatap
