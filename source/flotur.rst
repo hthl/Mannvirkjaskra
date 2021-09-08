@@ -6,6 +6,11 @@ Flötur
     
     „Flötur er mannvirkishluti af tegundinni flatt mannvirki“
     
+Hlutverk
+--------
+
+  Tilgangur flatar er að standa fyrir skráningu mannvirkishluta sem eru flöt virki og skráningu rúmmáls er ekki krafist.
+    
 Eigindi flatar
 -------------------
 
