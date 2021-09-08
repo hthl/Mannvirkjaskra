@@ -23,25 +23,29 @@ Eigindi
 ..todo::
   Skilgreina eigindi merkingar
 
-Eigindi 1
+Birtingarmynd
 ~~~~~~~~~~~~~~~~~~~~
   
 :Skilgreining:
- Eigindi 1 er ...
+ Birtingarmynd er sá texti merkingar sem birtur er fólki 
 
 :Skýring:
-  Nánari skýring á hugtaki eða athugasemdir varðandi hugtakaskilgreininguna
+  Birtingarmynd vísar fólki á Notkunareiningu og hjálpar því að rata
+  
 :Tækniheiti:
- Heiti hugtaks eins og það kemur fram í tölvukerfum, t.d í forritskóða, skeytum eða gagnagrunni.
- Inniheldur ekki íslensk sértákn vegna takmarkana ýmissa tölvukerfa.
+ Merking
+ 
 :Stuttheiti:
- Stutt tækniheiti. Skammstöfun hugtaks sem nota má þegar tækniheiti er of langt. T.d í samsettum heitum á venslum hugtaka, eða í gagnagrunnum.
+ MRK
+ 
 :Gagnatýpa:
- Gagnatýpa hugtaks og skorður sem um það gilda.
+ strengur
+ 
 :Uppruni:
- Uppruni skráningar. Hvar verða gögnin til og hver býr þau til.
+ Merking kemur frá umráðendum mannvirkja, mögulega með eignaskiptayfirlýsingu þegar um fjöleignarhús er að ræða
+ 
 :Birtingarform:  
- Birtingarform eigindis
+ <texti>
    
 Vensl
 -----
