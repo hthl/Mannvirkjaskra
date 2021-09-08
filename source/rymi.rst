@@ -1,7 +1,13 @@
 Rými
 ======
 
+
 .. admonition:: Skilgreining
+    :class: skilgreining
+    
+    „Afmarkað, samfellt rúmmál innan hæðar í byggingu að meðtöldu umliggjandi virki“
+    
+  Rými tilheyrir aðeins einni rekstrareiningu.
     
   Á uppdráttum er hverri hæð skipt í rými. Byrjað skal á neðstu hæð mannvirkis. Rými á hverri hæð skulu valin og skráð með hliðsjón af:
 
