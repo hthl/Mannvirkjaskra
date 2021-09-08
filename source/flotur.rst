@@ -28,7 +28,8 @@ Flatarmál
  Flatarmál flatar er rauntala stærri en 0
  
 :Uppruni:
- ..todo:: Hver er uppruni þessarra gagna ? Hvaða stjórnvald viðheldur þessarri skráningu ? Eru fleiri en eitt stjórnvald sem hafa skrá fleti ? Þarf að skilgreina mismunandi tegundir af flötum ? T.d bílaplön, geymslusvæði, kornrækt, skógrækt, verndarsvæði ?
+ ..todo:: 
+    Hver er uppruni þessarra gagna ? Hvaða stjórnvald viðheldur þessarri skráningu ? Eru fleiri en eitt stjórnvald sem hafa skrá fleti ? Þarf að skilgreina mismunandi tegundir af flötum ? T.d bílaplön, geymslusvæði, kornrækt, skógrækt, verndarsvæði ?
  
 :Birtingarform:  
  0,00 m2
