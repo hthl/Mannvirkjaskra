@@ -71,13 +71,14 @@ Ummál botnplötu
 ~~~~~~~~~~~~~~~
   
 :Skilgreining:
- Ummál botnplötu sem liggur að jörð
-
+ Ummál ofanjarðar
+ 
 :Skýring:
-   Hlutfall á milli flatarmáls og ummáls byggingar segir til um hversu mikið flækjustig er í byggingunni
+   Samband botnflatar byggingar og botnplötu er þannig að botnflötur byggingar liggur í fleti sem er 20 sm neðan við efri brún botnplötu hennar.
+ .. todo:: Hvernig mælir maður ummál ofanjarðar ? Ef botnplata er neðanjarðar hvert þá ummál ofanjarðar ? Erum við að tala um ummál botnplötu eða ummál byggingar ?
 
 :Tilgangur:
-  
+  Ummál botnplötu gefur vísbendingu um flækjustig byggingarforms, hjálpar til við villutékk skráningar og hefur áhrif á fasteignamat.
 
 :Tækniheiti:
  BotnM
