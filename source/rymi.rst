@@ -1,10 +1,8 @@
 Rými
 ======
 
-
 .. admonition:: Skilgreining
     :class: skilgreining
-    
     „Afmarkað, samfellt rúmmál innan hæðar í byggingu að meðtöldu umliggjandi virki“
     
   Rými tilheyrir aðeins einni rekstrareiningu.
