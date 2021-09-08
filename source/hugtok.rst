@@ -26,3 +26,5 @@ Hugtakalíkan
    notkunareining.rst
    
    merking.rst
+   
+   eignarhluti.rst
