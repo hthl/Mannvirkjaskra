@@ -5,6 +5,12 @@ Rekstrareining
 
   Rekstrareining er hluti mannvirkis sem afmarkast ef eignarskilum og myndar eina rekstrarlega heild sem getur ýmist verið í sameign sumra í byggingaráfanga, sameign allra í byggingu, sameign allra í klasa eða séreign í byggingaráfanga.
   
+Þegar tvær eða fleiri notkunareiningar tengjast rekstrareiningu þá myndar rekstrareiningin sameign sumra í byggingaráfanganum sem er táknuð með bókstafnum Y.
+
+.. todo::
+  Skýra betur sameignir
+
+  
 Hlutverk
 --------
 
