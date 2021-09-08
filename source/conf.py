@@ -55,6 +55,10 @@ html_static_path = ['_static']
 
 todo_include_todos = True
 
+formats:
+  - epub
+  - pdf
+
 rst_prolog = """
 .. |br| raw:: html
 
