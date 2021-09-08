@@ -24,3 +24,5 @@ Hugtakalíkan
    rekstrareining.rst
    
    notkunareining.rst
+   
+   merking.rst
