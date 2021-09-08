@@ -240,15 +240,13 @@ Flatarmál berandi platna
 ~~~~~~~~~~~~~~~~~~~~~~~~
   
 :Skilgreining:
- Flatarmál berandi platna í byggingu
+ Heildarflatarmál allra berandi platna í byggingu
 
 :Skýring:
-  Berandi plötur eru láréttir millifletir
+  Millifletir eru berandi plötur
   
-.. note:: Skýra greinarmun á berandi plötu og láréttum millifleti
-
 :Tilgangur:
-  Tilgangur með skráningu er að reikna byggingarkostnað og hitatap
+  Tilgangur með skráningu er að reikna byggingarkostnað
   
 :Tækniheiti:
  BerandiPlataM2
