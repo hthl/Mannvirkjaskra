@@ -7,10 +7,15 @@ Klasi
 Skilgreining
 ------------
 
+.. todo::
+Skilgreining er í vinnslu. Verður uppfærð von bráðar.
+
 .. admonition:: Skilgreining
     :class: skilgreining
     
-    „Klasi byggingaráfanga myndast þegar tvær eða fleiri rekstrareiningar í mismunandi byggingaráföngum tengjast saman í eina notkunareiningu.“
+    „Klasi bygginga myndast þegar rekstrareiningar í mismunandi byggingum tengjast saman í eina notkunareiningu. ...    
+    Reikningsleg heild...
+    Þegar bygging á byggingaráfanga á fleiri en einni lóð þá teljast þeir byggingaráfangar sem ...
    
 Hlutverk
 --------
