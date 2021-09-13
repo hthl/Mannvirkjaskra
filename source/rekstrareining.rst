@@ -3,6 +3,9 @@ Rekstrareining
 
 .. admonition:: Skilgreining
 
+.. todo::
+Rekstrareining er ekki bara hluti mannvirkis, einnig eru til rekstrareiningar sem eiga hlutdeild í lóð án mannvirkis. Eignarprósenta er innslegin fyrir slíkar rekstrareiningar. Laga þarf skilgreiningu Notkunareiningar til að aðlaga að þessu. 
+
   Rekstrareining er hluti mannvirkis sem afmarkast ef eignarskilum og myndar eina rekstrarlega heild sem getur ýmist verið í sameign sumra í byggingaráfanga, sameign allra í byggingu, sameign allra í klasa eða séreign í byggingaráfanga.
   
 Þegar tvær eða fleiri notkunareiningar tengjast rekstrareiningu þá myndar rekstrareiningin sameign sumra í byggingaráfanganum sem er táknuð með bókstafnum Y.
