@@ -12,7 +12,7 @@ Skilgreining
 .. admonition:: Skilgreining
     :class: skilgreining
     
-    „Mannvirkishluti er hluti mannvirkis af tiltekinni tegund sem gerður er í einum áfanga og tilheyrir aðeins einni landeign“
+    „Mannvirkishluti er hluti mannvirkis af tiltekinni tegund sem gerður er í einum áfanga og tengist aðeins einni landeign“
    
 Hlutverk
 --------
