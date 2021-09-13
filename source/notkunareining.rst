@@ -1,6 +1,9 @@
 Notkunareining
 ===============
 
+.. todo::
+Breyta þarf skilgreiningu Notkunareiningar. Notkunareining getur átt rekstrareiningu lands og er þá ekki tengd mannvirki. Sjá breytingar á rekstrareiningu.
+
 .. admonition:: Skilgreining
 
   Notkunareining er tiltekin starfsemi sem skipulags og byggingaryfirvöld hafa heimilað í mannvirkjum.
