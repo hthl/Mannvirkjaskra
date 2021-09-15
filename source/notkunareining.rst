@@ -1,12 +1,9 @@
 Notkunareining
 ===============
 
-.. todo::
-Breyta þarf skilgreiningu Notkunareiningar. Notkunareining getur átt rekstrareiningu lands og er þá ekki tengd mannvirki. Sjá breytingar á rekstrareiningu.
-
 .. admonition:: Skilgreining
 
-  Notkunareining er tiltekin starfsemi sem skipulags og byggingaryfirvöld hafa heimilað í mannvirkjum.
+  Notkunareining er tiltekin starfsemi sem skipulags og byggingaryfirvöld hafa heimilað á landi eða í byggingu.
   
 Skýring
 ----------
@@ -14,12 +11,11 @@ Skýring
   Notkunareiningar uppfylla allar kröfur til að geta staðið sem sjálfstæð fasteign en jafnframt geta margar notkunareiningar verið ein fasteign.
   
 ..todo::
-  Tillaga til breytingar á skráningu hugtaks:
-    "Notkunareining er tiltekin starfsemi sem skipulags og byggingaryfirvöld hafa heimilað á landi eða í byggingu"
+ 
   Mætti taka til umræðu.
-    Tengjast ekki allar Notkunareiningar mannvirkjum ? 
-    Hvaða starfsemi er það sem samþykkt er á landi sem tengist ekki mannvirkjum? 
-    Mannvirki er "framkvæmd"; hvaða framkvæmdir eru ekki mannvirki?
+    Tengjast ekki allar Notkunareiningar mannvirkjum ? Nei, dæmi eru um annað, þar sem hlutfallstala í lóð er skráð beint, en ekki útreiknuð.
+    Hvaða starfsemi er það sem samþykkt er á landi sem tengist ekki mannvirkjum? Bygingarreitur / fasteignaréttur ?
+    Mannvirki er "framkvæmd"; hvaða framkvæmdir eru ekki mannvirki? fasteignaréttur
     Á hverju byggjast rekstrareiningar á landi sem ekki hafa mannvirki ?
  
 
