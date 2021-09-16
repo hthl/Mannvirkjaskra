@@ -3,18 +3,17 @@ Rekstrareining
 
 .. admonition:: Skilgreining
 
-  Rekstrareining er hluti fasteignar sem afmarkast ef eignarskilum og myndar eina rekstrarlega heild sem getur ýmist verið í sameign sumra í byggingaráfanga (táknað Y), sameign allra í byggingu (táknað X), sameign allra í klasa (táknað Z), séreign í byggingaráfanga, sameign sumra í landeign, eða séreign í landeign.
+Rekstrareining er hluti fasteignar sem afmarkast af eignarskilum í mannvirkjum eða hlutdeild í landeign. Rekstrareining myndar eina rekstrarlega heild sem getur ýmist verið í sameign sumra í byggingaráfanga (táknað Y), sameign allra í byggingu (táknað X), sameign allra í klasa (táknað Z), séreign í byggingaráfanga (táknað 0101) eða séreign í landeign (táknað L).
   
 .. todo::
-  Skýra betur sameignir. Hvað með sameignir í lóð.
-  Rekstrareining er ekki bara hluti mannvirkis, einnig eru til rekstrareiningar sem eiga hlutdeild í lóð án mannvirkis. Eignarprósenta er innslegin fyrir slíkar rekstrareiningar. Laga þarf skilgreiningu Notkunareiningar til að aðlaga að þessu. 
-
+  
+ Laga þarf skilgreiningu Notkunareiningar til að aðlaga að þessu. 
+ sameign sumra í landeign (ekki dæmi um þetta, á að banna ?),
   
 Hlutverk
 --------
-
-  Rekstrareining tengir saman öll rými byggingaráfanga sem hafa sama eignarhald svo hægt sé að reikna hlutdeild þess í byggingaráfanganum
-
+  
+  Hlutverk rekstrareiningar er að geyma hlutdeild í landeign, klasa, byggingu, byggingaráfanga svo hægt sé að skipta byggingar og viðhaldskostnaði. Hludeild Notkunareiningar í rekstrareiningu myndar eignarhluta í fasteign. Í Byggingaráfanga tengir Rekstrareining saman þau Rými sem henni tilheyra.
 
 Eigindi Rekstrareiningar
 ------------------------
