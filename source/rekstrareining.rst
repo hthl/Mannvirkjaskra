@@ -176,7 +176,7 @@ Eignarhald flokkur
   Vantar að klára eigindi
   
 :Skilgreining:
- 
+  Z, X, ....
 
 :Skýring:
   
@@ -199,14 +199,14 @@ Eignarhald flokkur
 :Birtingarform: 
  
  
-Bygging psr
-~~~~~~~~~~~
+Eignarhlutfall
+~~~~~~~~~~~~~~~
   
  .. todo::
   Vantar að klára eigindi
 
 :Skilgreining:
-
+  Eignarhlutfall rekstrareiningar í landeign
 
 :Skýring:
   
@@ -227,69 +227,4 @@ Bygging psr
  
  
 :Birtingarform: 
- 
- 
- 
-Skiptarúmmál
-~~~~~~~~~~~~
-  
- .. todo::
-  Vantar að klára eigindi
-
-:Skilgreining:
-
-
-:Skýring:
-  
-
-:Tilgangur:
-  
-  
-:Tækniheiti:
- 
- 
-:Stuttheiti:
- 
-
-:Gagnatýpa:
- Pósitív rauntala  
- 
-:Uppruni:
- 
- 
-:Birtingarform: 
- 0,0 m³
- 
- 
-Áfangi prs
-~~~~~~~~~~
-
- .. todo::
-  Vantar að klára eigindi
-
-:Skilgreining:
-
-
-:Skýring:
-  
-
-:Tilgangur:
-  
-  
-:Tækniheiti:
- 
- 
-:Stuttheiti:
- 
-
-:Gagnatýpa:
-  
- 
-:Uppruni:
- 
- 
-:Birtingarform: 
- 
- 
- 
  
