@@ -2,6 +2,7 @@ Rekstrareining
 ================
 
 .. admonition:: Skilgreining
+
   Rekstrareining er hluti fasteignar sem afmarkast ef eignarskilum og myndar eina rekstrarlega heild sem getur ýmist verið í sameign sumra í byggingaráfanga (táknað Y), sameign allra í byggingu (táknað X), sameign allra í klasa (táknað Z), séreign í byggingaráfanga, sameign sumra í landeign, eða séreign í landeign.
   
 .. todo::
