@@ -3,7 +3,7 @@ Notkunareining
 
 .. admonition:: Skilgreining
 
-  Notkunareining er tiltekin starfsemi sem skipulags og byggingaryfirvöld hafa heimilað á landi eða í byggingu.
+  Notkunareining er tiltekin starfsemi sem skipulags og byggingaryfirvöld hafa heimilað á landeign eða í byggingu.
   
 Skýring
 ----------
