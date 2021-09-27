@@ -1,7 +1,7 @@
 Hugtakalíkan Mannvirkjaskrár
 ==========================================
 
-mannvirkjaskra.rst
+.. include:: mannvirkjaskra.rst
 
 .. toctree::
    :maxdepth: 3
