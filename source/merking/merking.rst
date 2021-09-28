@@ -1,5 +1,8 @@
 .. _merking:
 
+.. todo::
+  Skilgreining rekstrareiningar er í vinnslu
+
 Merking
 ==================================
 

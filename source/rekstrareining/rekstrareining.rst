@@ -12,9 +12,9 @@ Rekstrareining
 .. admonition:: Skilgreining
   
   Rekstrareining er hlutdeild í landeign. 
-  Ef tegund rekstrareiningar er rekstrareining byggingaráfanga byggingar þá afmarkast hún af eignarskilum í byggingu. 
-  Ef rekstrareining er rekstrareining landeignar þá hefur hún skráða hlutdeild í landeign. 
-  Rekstrareining myndar eina rekstrarlega heild sem getur ýmist verið í sameign sumra í byggingaráfanga (táknað Y), sameign allra í byggingu (táknað X), sameign allra í klasa (táknað Z), séreign í byggingaráfanga (táknað 0101) eða séreign í landeign (táknað L).
+  * Ef tegund rekstrareiningar er rekstrareining byggingaráfanga byggingar þá afmarkast hún af eignarskilum í byggingu. 
+  * Ef rekstrareining er rekstrareining landeignar þá hefur hún skráða hlutdeild í landeign. 
+  * Rekstrareining myndar eina rekstrarlega heild sem getur ýmist verið í sameign sumra í byggingaráfanga (táknað Y), sameign allra í byggingu (táknað X), sameign allra í klasa (táknað Z), séreign í byggingaráfanga (táknað 0101) eða séreign í landeign (táknað L).
     
   
 Hlutverk
