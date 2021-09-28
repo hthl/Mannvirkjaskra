@@ -1,5 +1,7 @@
+.. _byggingarafangi:
+
 Byggingaráfangi
-===============
+=================
 
 .. image:: img/byggingarafangi.svg 
    :width: 100
@@ -10,12 +12,12 @@ Byggingaráfangi
     „Byggingaráfangi er hluti byggingar eða heil bygging sem byggður er í  einum  áfanga.“
     
 Hlutverk
---------
+---------
 
 Hlutverk byggingaráfanga er að geyma upplýsingar um einstaka byggingaráfanga byggingar
 
 Eigindi
--------
+--------
 
 Byggingaráfangi er Mannvirkishluti og ber því öll :ref:`eigindi mannvirkishluta<mannvirkishluti_eigindi>`.
 
@@ -34,7 +36,14 @@ Byggingaráfangi er Mannvirkishluti og ber því öll :ref:`eigindi mannvirkishl
    eigindi/virki_rummal.rst
    eigindi/hjupflotur.rst
 
-Vensl byggingaráfanga
----------------------
+Vensl 
+------
 
-Bygginaráfangi er mannvirkishluti af tegundinni byggingaráfangi. Byggingaráfangi tengist þeirri byggingu sem hann tilheyrir.
+.. toctree::
+   :maxdepth: 5
+   
+   vensl/mannvirkishluti.rst
+   vensl/bygging.rst
+   
+   
+

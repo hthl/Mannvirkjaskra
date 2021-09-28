@@ -1,10 +1,15 @@
+.. _flotur:
+
 Flötur
 ======
+
+.. image:: img/flotur.svg 
+   :width: 100
 
 .. admonition:: Skilgreining
     :class: skilgreining
     
-    „Flötur er mannvirkishluti af tegundinni flatt mannvirki“
+    Flötur er mannvirkishluti af tegundinni flatt mannvirki
     
 Hlutverk
 --------

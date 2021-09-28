@@ -1,5 +1,14 @@
+.. _notkunareining:
+
+.. todo::
+  Skilgreining rekstrareiningar er í vinnslu
+
 Notkunareining
 ===============
+
+.. image:: img/notkunareining.svg 
+   :width: 100
+
 
 .. admonition:: Skilgreining
 
@@ -18,128 +27,38 @@ Skýring
   Á hverju byggjast rekstrareiningar á landi sem ekki hafa mannvirki ?
  
 
-Eigindi Notkunareiningar
-------------------------
-
-
-Notkunareiningarnúmer
-~~~~~~~~~~~~~~~~~~~~~
-  
- .. todo::
-  Vantar að klára eigindi
-  
-:Skilgreining:
- 
-
-:Skýring:
+Eigindi
+----------------
+.. toctree::
+   :maxdepth: 5
+   
+   eigindi/notkunareining_nr.rst
+   eigindi/notkunarflokkur.rst
+   eigindi/merking.rst
+   eigindi/ist120flokkur.rst
   
 
-:Tilgangur:
-  
-  
-:Tækniheiti:
- 
- 
-:Stuttheiti:
- 
+Vensl
+-----
+.. toctree::
+   :maxdepth: 5
 
-:Gagnatýpa:
- pósitív heiltala
- 
-:Uppruni:
- 
- 
-:Birtingarform: 
- 
-
-Notkun flokkur
-~~~~~~~~~~~~~~
-  
- .. todo::
-  Vantar að klára eigindi
-  
-:Skilgreining:
- 
-
-:Skýring:
+   vensl/fasteign.rst
+   vensl/rekstareining.rst
+   
   
 
-:Tilgangur:
-  
-  
-:Tækniheiti:
- 
- 
-:Stuttheiti:
+
+
  
 
-:Gagnatýpa:
- String (enum)
- 
-:Uppruni:
- 
- 
-:Birtingarform: 
+
  
 
-Ist 120 flokkur
-~~~~~~~~~~~~~~~
-  
- .. todo::
-  Vantar að klára eigindi
-  
-:Skilgreining:
+
  
 
-:Skýring:
-  
 
-:Tilgangur:
-  
-  
-:Tækniheiti:
- 
- 
-:Stuttheiti:
- 
-
-:Gagnatýpa:
- String (enum)
- 
-:Uppruni:
- 
- 
-:Birtingarform: 
- 
-
-Merking
-~~~~~~~
-  
- .. todo::
-  Vantar að klára eigindi
-  
-:Skilgreining:
- 
-
-:Skýring:
-  
-
-:Tilgangur:
-  
-  
-:Tækniheiti:
- 
- 
-:Stuttheiti:
- 
-
-:Gagnatýpa:
- String
- 
-:Uppruni:
- 
- 
-:Birtingarform: 
  
  
  

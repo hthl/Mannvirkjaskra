@@ -1,5 +1,5 @@
-Um hugtakalíkan
------------------
+Um hugtakalíkan mannvirkja
+------------------------------
 
 Mannvirkjaskrá
 """""""""""""""""""
@@ -14,19 +14,19 @@ Ráðgert er að ný mannvirkjaskrá verði komin í gagnið 1. júní  2022.
 
 Hugtakalíkan mannvirkja
 """""""""""""""""""""""""""""
-Hugtakalíkan mannvirkja inniheldur skilgreiningar á þeim hugtökum sem notuð eru í mannvirkjaskráningu. Líkanið er afmörkun á viðfangsefni mannvirkjaskrár og lýsing á þeim hlutum sem þar koma fyrir. 
+Hugtakalíkan mannvirkja inniheldur skilgreiningar á þeim hugtökum sem tengjast Mannvirkjum. Líkanið er afmörkun á viðfangsefni þeirra sem þurfa að sýsla með mannvirki og lýsing á þeim hugtökum sem tengjast skráningu mannvirkja.
 
-Tilgangur hugtakalíkans er að ná fram sameiginlegum skilningi á milli þeirra aðila sem koma að uppbyggingu mannvirkjaskrár og annarra aðila sem smíða kerfi sem reiða sig á mannvirkjaskrá. 
+Tilgangur hugtakalíkans er að ná fram sameiginlegum skilningi á milli þeirra hagsmunaaðila sem vinna með mannvirki og þurfa að reiða sig á skráningu mannvirkja. 
 
 Hugtakalíkanið er undirstaða undir tæknilega útfærslu og samræmingu á milli kerfa.
 
 Takmarkanir
 """"""""""""""
-Hugtakalíkanið nær til þeirra hugtaka sem þjóna sameiginlegum þörfum hagsmunaaðila. Sérhæfð skráning sem varðar ekki hagsmunaaðila, en er nauðsynleg er til að halda utan um stjórnsýslu mannvirkja í tengslum við stofnun, samþykktir og eftirlit á framkvæmdartíma er innra viðfangsefni mannvirkjaskrár HMS.
+Hugtakalíkanið nær til þeirra hugtaka sem þjóna sameiginlegum þörfum hagsmunaaðila. Sérhæfð skráning sem snertir ekki hagsmunaaðila, en er nauðsynleg er til að halda utan um stjórnsýslu mannvirkja í tengslum við stofnun, samþykktir og eftirlit á framkvæmdartíma er innra viðfangsefni mannvirkjaskrár HMS.
 
 Skráningarlíkan mannvirkja
 """"""""""""""""""""""""""""
-Skráningarlíkan mannvirkja er tæknileg útfærsla á Hugtakalíkani. Tilgangur skráningarlíkans er að staðla gagnasnið mannvirkjaskráningar. Með samræmdu gagnasniði geta óháð kerfi ólíkra aðila þróast sjálfstætt en unnið saman sem þau væru eitt kerfi.
+Skráningarlíkan mannvirkja er tæknileg útfærsla á Hugtakalíkani. Tilgangur skráningarlíkans er að staðla gagnasnið fyrir skráningu og miðlun mannvirkja. Með samræmdu gagnasniði geta óháð kerfi ólíkra aðila þróast sjálfstætt en unnið saman sem þau væru eitt kerfi.
 
 Skráningarlíkan mannvirkja byggir á opnum stöðlum og er útfært sem  `Json gagnasnið <https://api-dev.skra.is/business/mannvirki-validator/schemas/allschemas.json>`_. Skráningarlíkanið leysir af hólmi skráningartöflu mannvirkja á Microsoft Excel formi.
 

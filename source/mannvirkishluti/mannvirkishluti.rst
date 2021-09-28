@@ -1,4 +1,4 @@
-
+.. _mannvirkishluti:
 
 Mannvirkishluti 
 ===============
@@ -25,10 +25,10 @@ Eigindi
 ----------------
 .. toctree::
    :maxdepth: 5
-
-   eigindi/mannvirkishluti_nr.rst
+   
    eigindi/tegund.rst
-   eigindi/eignarhlutfall.rst
+   eigindi/mannvirkishluti_nr.rst
+   ...eigindi/eignarhlutfall.rst
    eigindi/istflokkun.rst
 
 Vensl

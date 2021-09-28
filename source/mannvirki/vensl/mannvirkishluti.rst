@@ -8,4 +8,4 @@ Mannvirkishluti
   
   Vensl mannvirkis og mannvirkishluta
   
-  Mannvirki samanstendur af Mannvirkishlutum
+  Mannvirki samanstendur af einum eða fleiri Mannvirkishlutum

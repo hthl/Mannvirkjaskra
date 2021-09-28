@@ -1,3 +1,5 @@
+.. _bygging:
+
 Bygging 
 ===============
 
@@ -14,8 +16,7 @@ Skilgreining
    
 Hlutverk
 --------
-.. todo::
-  Vantar að skilgreina hlutverk Byggingar
+  Bygging er andlag sem tengir saman hluta byggingar og geymir upplýsingar um bygginguna.
 
 Eigindi
 -------
@@ -31,10 +32,7 @@ Eigindi
    eigindi/thak_flatarmal.rst
    eigindi/thakop_flatarmal.rst
    eigindi/berandiplata_flatarmal.rst
-   eigindi/fyllingplatna_flatarmal.rst
-   eigindi/koldplata_flatarmal.rst
-   eigindi/ummal.rst
-   eigindi/brutto_ummal.rst
+
     
 
 Vensl

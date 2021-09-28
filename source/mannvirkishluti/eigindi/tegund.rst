@@ -1,16 +1,18 @@
 Tegund
 ~~~~~~~~~~~~~~~~~~~~ 
 
-:Skilgreining:
-   Tegund mannvirkishluta. 
+.. admonition:: Skilgreining
+
+   Tegund mannvirkishluta 
+
 :Skýring:
-   Tegund tilgreinir erfðavensl. Tilgreinir hvers eðlis mannvirkishlutinn er og ákveður hvaða skráningaratriði eru skráð fyrir viðkomandi tegund mannvirkishluta.    Tegundir mannvirkishluta eru Byggingaráfangi, Flötur, Fasteignaréttindi. Möguleiki er á að bæta við fleiri tegundum mannvirkishluta þegar þörf kemur upp á að skrá nýja tegund mannvirkis.
+   Tegund tilgreinir erfðavensl. Tilgreinir hvers eðlis mannvirkishlutinn er og ákveður hvaða skráningaratriði eru skráð fyrir viðkomandi tegund mannvirkishluta.    Tegundir mannvirkishluta eru Byggingaráfangiog Flötur. Möguleiki er á að bæta við fleiri tegundum mannvirkishluta þegar þörf kemur upp á að skrá nýja tegund mannvirkis.
 
 :Tækniheiti:
    Tegund
 
 :Stuttheiti:
-   TEG
+   TEGMVHL
 
 :Gagnatýpa:
    Enumeration 
@@ -18,14 +20,15 @@ Tegund
    .. csv-table:: 
      :header: "Kóði", "Skilgreining"
 
-     "BAF", "Byggingaráfangi"
-     "FL", "Flötur"
-     "FR", "Fasteignaréttindi"
+     "BAF", :ref:`Byggingaráfangi<byggingarafangi>`
+     "FL", :ref:`Flötur<flotur>`
 
 :Uppruni:
    Skráð gildi
 
 :Birtingarform:
-   [Tegund] BAF
+   [Tegund] 
+   |br| Dæmi: BAF 
+   |br| Dæmi: FL
 
  

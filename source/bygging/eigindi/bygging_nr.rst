@@ -5,6 +5,7 @@ Byggingarnúmer
  Byggingarnúmer er upplýsingalaust einkvæmt auðkenni mannvirkishluta
 
 :Skýring:
+ Byggingarnúmer er einkvæmt á landsvísu
 
 :Tækniheiti:
  ByggingNr

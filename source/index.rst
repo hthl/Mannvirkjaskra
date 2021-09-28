@@ -1,4 +1,4 @@
-Hugtakalíkan Mannvirkjaskrár
+Hugtakalíkan Mannvirkja
 ==========================================
 
 .. toctree::
