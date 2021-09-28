@@ -1,12 +1,12 @@
 Hugtakalíkan Mannvirkjaskrár
 ==========================================
 
-.. include:: mannvirkjaskra.rst
-
 .. toctree::
-   :maxdepth: 3
+   :maxdepth: 8
    :caption: Efnisyfirlit:
-  
+   
+   mannvirkjaskra.rst
+
    hugtok.rst
    
  

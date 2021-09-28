@@ -1,5 +1,8 @@
-Mannvirkjaskrá 
-===============
+Um hugtakalíkan
+-----------------
+
+Mannvirkjaskrá
+"""""""""""""""""""
 
 Mannvirkjaskrá er nýr gagnagrunnur um íslensk mannvirki. 
 
@@ -9,7 +12,32 @@ Verkefnið verður unnið í nánu samstarfi ráðuneytanna, Þjóðskrár Ísla
 
 Ráðgert er að ný mannvirkjaskrá verði komin í gagnið 1. júní  2022.
 
+Hugtakalíkan mannvirkja
+"""""""""""""""""""""""""""""
+Hugtakalíkan mannvirkja inniheldur skilgreiningar á þeim hugtökum sem notuð eru í mannvirkjaskráningu. Líkanið er afmörkun á viðfangsefni mannvirkjaskrár og lýsing á þeim hlutum sem þar koma fyrir. 
+
+Tilgangur hugtakalíkans er að ná fram sameiginlegum skilningi á milli þeirra aðila sem koma að uppbyggingu mannvirkjaskrár og annarra aðila sem smíða kerfi sem reiða sig á mannvirkjaskrá. 
+
+Hugtakalíkanið er undirstaða undir tæknilega útfærslu og samræmingu á milli kerfa.
+
+Takmarkanir
+""""""""""""""
+Hugtakalíkanið nær til þeirra hugtaka sem þjóna sameiginlegum þörfum hagsmunaaðila. Sérhæfð skráning sem varðar ekki hagsmunaaðila, en er nauðsynleg er til að halda utan um stjórnsýslu mannvirkja í tengslum við stofnun, samþykktir og eftirlit á framkvæmdartíma er innra viðfangsefni mannvirkjaskrár HMS.
+
+Skráningarlíkan mannvirkja
+""""""""""""""""""""""""""""
+Skráningarlíkan mannvirkja er tæknileg útfærsla á Hugtakalíkani. Tilgangur skráningarlíkans er að staðla gagnasnið mannvirkjaskráningar. Með samræmdu gagnasniði geta óháð kerfi ólíkra aðila þróast sjálfstætt en unnið saman sem þau væru eitt kerfi.
+
+Skráningarlíkan mannvirkja byggir á opnum stöðlum og er útfært sem  `Json gagnasnið <https://api-dev.skra.is/business/mannvirki-validator/schemas/allschemas.json>`_. Skráningarlíkanið leysir af hólmi skráningartöflu mannvirkja á Microsoft Excel formi.
+
+Samvinna hagsmunaaðila
+""""""""""""""""""""""""
+Margir ólíkir hagsmunaðilar byggja sína vinnu á skráningu mannvirkja. Forsenda góðrar samvinnu á þeim vettvangi er sameiginlegur skilningur og samræmd gagnaskil. 
+Hugtakalíkanið endurspeglar þarfir hagsmunaaðila og tryggir sameiginlegan skilning. Skráningarlíkanið er útfærsla þess sem tryggir samræmd gagnaskil.
 
 Staða skjals
----------------
+""""""""""""""
 Skjal þetta er í vinnslu og verður uppfært eftir því sem verkefninu um uppbyggingu mannvirkjaskrár miðar áfram. Stefnt er að því að fyrsta útgáfa af hugtakalíkani verið tilbúið 1. október 2021.
+
+Gert er ráð fyrir að hugtakalíkanið taki breytingum eftir því sem fleiri kröfur hagsmunaaðila koma fram og ábendingar berist frá fagaðilum. Hugtakalíkanið verður útgáfustýrt og hverri útgáfu hugtakalíkans fylgir samsvarandi útgáfa skráningarlíkans.
+
