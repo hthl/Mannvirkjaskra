@@ -2,9 +2,10 @@ Eignarhlutfall
 ------------------
   
  .. todo::
-  Vantar að klára eigindi
+    Í vinnslu
 
-:Skilgreining:
+.. admonition:: Skilgreining
+
   Eignarhlutfall rekstrareiningar í landeign
 
 :Skýring:

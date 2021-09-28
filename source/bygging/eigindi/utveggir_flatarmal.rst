@@ -1,7 +1,8 @@
 Flatarmál útveggja
 ~~~~~~~~~~~~~~~~~~
   
-:Skilgreining:
+.. admonition:: Skilgreining
+  
  Flatarmál útvegga byggingar með opum
 
 :Skýring:

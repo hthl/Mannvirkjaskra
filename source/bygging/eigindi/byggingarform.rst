@@ -1,7 +1,8 @@
 Byggingarform
 ~~~~~~~~~~~~~
   
-:Skilgreining:
+.. admonition:: Skilgreining
+  
  Byggingarform er flokkun á byggingarformi
 
  .. todo::

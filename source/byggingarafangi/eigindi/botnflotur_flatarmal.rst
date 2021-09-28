@@ -2,7 +2,7 @@ Flatarmál botnflatar
 ~~~~~~~~~~~~~~~~~~~~
   
  .. todo::
-  Vantar að klára eigindi
+   Í vinnslu
   
 :Skilgreining:
  

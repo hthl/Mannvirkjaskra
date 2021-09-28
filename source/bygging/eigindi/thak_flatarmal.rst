@@ -1,7 +1,8 @@
 Flatarmál þaks
 ~~~~~~~~~~~~~~
   
-:Skilgreining:
+.. admonition:: Skilgreining
+  
  Raunflötur þaks
 
 :Skýring:

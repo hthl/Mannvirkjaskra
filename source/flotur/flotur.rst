@@ -22,7 +22,7 @@ Eigindi flatar
 Flatarmál
 ~~~~~~~~~~~~~~~~~~~~
   
-:Skilgreining:
+.. admonition:: Skilgreining
  Flatarmál flatar er raunflötur hans
 
 :Skýring:

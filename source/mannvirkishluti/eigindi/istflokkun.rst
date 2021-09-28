@@ -2,7 +2,7 @@ Ist 120 flokkur
 ~~~~~~~~~~~~~~~
   
  .. todo::
-  Vantar að klára eigindi
+   Í vinnslu
   
 :Skilgreining:
  

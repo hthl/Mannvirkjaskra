@@ -1,7 +1,8 @@
 Ummál botnplötu
 ~~~~~~~~~~~~~~~
   
-:Skilgreining:
+.. admonition:: Skilgreining
+  
  Ummál ofanjarðar
  
 :Skýring:

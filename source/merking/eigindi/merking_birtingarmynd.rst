@@ -1,7 +1,8 @@
 Birtingarmynd
 ~~~~~~~~~~~~~~~~~~~~
   
-:Skilgreining:
+.. admonition:: Skilgreining
+  
  Birtingarmynd er sá texti merkingar sem birtur er fólki 
 
 :Skýring:

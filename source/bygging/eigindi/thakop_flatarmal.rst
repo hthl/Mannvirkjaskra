@@ -1,7 +1,8 @@
 Flatarmál þakopa
 ~~~~~~~~~~~~~~~~
   
-:Skilgreining:
+.. admonition:: Skilgreining
+  
  Flatarmál opa í þaki
 
 :Skýring:

@@ -1,7 +1,8 @@
 Mannvirkisnúmer
 -------------------
 
-:Skilgreining:
+.. admonition:: Skilgreining
+  
   Mannvirkisnúmer er upplýsingalaust einkvæmt auðkenni mannvirkis
 
 :Skýring:

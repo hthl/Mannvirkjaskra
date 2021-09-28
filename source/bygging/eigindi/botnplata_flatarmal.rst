@@ -1,7 +1,8 @@
 Flatarmál botnplötu
 ~~~~~~~~~~~~~~~~~~~
   
-:Skilgreining:
+.. admonition:: Skilgreining
+   
  Sá botnflötur byggingar sem liggur að jörðu auk þeirra botnflata sem skaga út fyrir hæðina fyrir neðan
 
 :Skýring:

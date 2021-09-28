@@ -1,7 +1,8 @@
 Mannvirkishlutanúmer
 ~~~~~~~~~~~~~~~~~~~~
 
-:Skilgreining:
+.. admonition:: Skilgreining
+    
  Mannvirkishlutanúmer er upplýsingalaust einkvæmt auðkenni mannvirkishluta
 
 :Skýring:

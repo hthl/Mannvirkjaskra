@@ -1,7 +1,8 @@
 Flatarmál fylling platna
 ~~~~~~~~~~~~~~~~~~~~~~~~
   
-:Skilgreining:
+.. admonition:: Skilgreining
+    
  Flatarmál fylling platna í byggingu
 
 :Skýring:

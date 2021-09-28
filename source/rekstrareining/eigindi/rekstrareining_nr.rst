@@ -2,9 +2,10 @@ Rekstrareiningarnúmer
 ~~~~~~~~~~~~~~~~~~~~~
   
  .. todo::
-  Vantar að klára eigindi
+    Í vinnslu
   
-:Skilgreining:
+.. admonition:: Skilgreining
+
   Upplýsingalaus tala
 
 :Skýring:

@@ -10,9 +10,8 @@ Skilgreining
 ------------
 
 .. admonition:: Skilgreining
-    :class: skilgreining
     
-    „Bygging er mannvirki með nýtanlegt rými í samræmi við tilgang byggingarinnar“
+  Bygging er mannvirki með nýtanlegt rými í samræmi við tilgang byggingarinnar
    
 Hlutverk
 --------

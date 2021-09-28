@@ -2,7 +2,7 @@ Byggingarstig flokkur
 ~~~~~~~~~~~~~~~~~~~~~
   
  .. todo::
-  Vantar að klára eigindi
+    Í vinnslu
   
 :Skilgreining:
  

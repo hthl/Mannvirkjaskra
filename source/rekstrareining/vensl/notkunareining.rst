@@ -2,7 +2,7 @@ Notkunareining
 ~~~~~~~~~~~~~~~~~~~~~
   
  .. todo::
-  Vantar að klára eigindi
+  Í vinnslu
   
 :Skilgreining:
  

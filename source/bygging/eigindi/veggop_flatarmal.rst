@@ -1,7 +1,8 @@
 Flatarmál veggopa
 ~~~~~~~~~~~~~~~~~
   
-:Skilgreining:
+.. admonition:: Skilgreining
+  
  Steypumál veggopa í útveggjum byggingar.
 
 :Skýring:

@@ -2,7 +2,7 @@ Flatarmál brúttó flatar
 ~~~~~~~~~~~~~~~~~~~~~~~
   
  .. todo::
-  Vantar að klára eigindi
+    Í vinnslu
   
 :Skilgreining:
  

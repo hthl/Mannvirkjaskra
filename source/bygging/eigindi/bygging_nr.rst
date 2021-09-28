@@ -1,7 +1,8 @@
 Byggingarnúmer
 ~~~~~~~~~~~~~~
   
-:Skilgreining:
+.. admonition:: Skilgreining
+    
  Byggingarnúmer er upplýsingalaust einkvæmt auðkenni mannvirkishluta
 
 :Skýring:

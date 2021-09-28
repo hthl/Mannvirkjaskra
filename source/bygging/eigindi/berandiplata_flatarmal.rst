@@ -1,7 +1,8 @@
 Flatarmál berandi platna
 ~~~~~~~~~~~~~~~~~~~~~~~~
   
-:Skilgreining:
+.. admonition:: Skilgreining
+  
  Heildarflatarmál allra berandi platna í byggingu
 
 :Skýring:
