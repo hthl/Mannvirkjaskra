@@ -1,11 +1,10 @@
 Flatarmál brúttó flatar
 ~~~~~~~~~~~~~~~~~~~~~~~
   
- .. todo::
-    Í vinnslu
-  
-:Skilgreining:
- 
+.. admonition:: Skilgreining
+    :class: skilgreining
+    
+    Brúttóflötur byggingaráfanga er myndaður af rýmum hans
 
 :Skýring:
   

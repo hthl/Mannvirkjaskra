@@ -9,7 +9,7 @@ Byggingaráfangi
 .. admonition:: Skilgreining
     :class: skilgreining
     
-    „Byggingaráfangi er hluti byggingar eða heil bygging sem byggður er í  einum  áfanga.“
+    Byggingaráfangi er hluti byggingar eða heil bygging sem byggður er í  einum  áfanga.
     
 Hlutverk
 ---------

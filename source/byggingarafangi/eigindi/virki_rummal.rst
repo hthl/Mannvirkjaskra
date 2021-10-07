@@ -1,11 +1,10 @@
 Virkisrúmmál
 ~~~~~~~~~~~~~
   
- .. todo::
-    Í vinnslu
-  
-:Skilgreining:
- 
+.. admonition:: Skilgreining
+    :class: skilgreining
+    
+    Virkisrúmmál byggingaráfanga er myndað af virkisrýmum hans
 
 :Skýring:
   

@@ -2,10 +2,8 @@ Hjúpflötur
 ~~~~~~~~~~
   
  .. todo::
-    Í vinnslu
+    Í vinnslu. Hér eiga fagaðilar eftir að skilgreina nánar skráningu hjúpflatar byggingaráfanga og byggingar.
   
-:Skilgreining:
- 
 
 :Skýring:
   

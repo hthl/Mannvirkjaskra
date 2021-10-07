@@ -1,12 +1,11 @@
 Skiptarúmmál
 ~~~~~~~~~~~~~
   
- .. todo::
-    Í vinnslu
+.. admonition:: Skilgreining
+    :class: skilgreining
+    
+    Heildar skiptarúmmál byggingaráfanga er myndað af rýmum hans
   
-:Skilgreining:
- 
-
 :Skýring:
   
 

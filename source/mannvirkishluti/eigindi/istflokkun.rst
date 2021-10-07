@@ -2,7 +2,7 @@ Ist 120 flokkur
 ~~~~~~~~~~~~~~~
   
  .. todo::
-   Í vinnslu
+   Í vinnslu. Fagaðilar eiga eftir að taka afstöðu til flokkunar mannvirkja
   
 :Skilgreining:
  

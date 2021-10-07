@@ -1,12 +1,11 @@
 Flatarmál milliflatar
 ~~~~~~~~~~~~~~~~~~~~~
   
- .. todo::
-    Í vinnslu
+.. admonition:: Skilgreining
+    :class: skilgreining
+    
+    Flatarmál milliflata byggingaráfanga er myndað af rýmum hans
   
-:Skilgreining:
- 
-
 :Skýring:
   
 

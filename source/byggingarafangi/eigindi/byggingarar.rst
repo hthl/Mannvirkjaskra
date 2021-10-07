@@ -1,12 +1,11 @@
 Byggingarár
 ~~~~~~~~~~~
   
- .. todo::
-    Í vinnslu
+.. admonition:: Skilgreining
+    :class: skilgreining
+    
+    Byggingarár byggingaráfanga miðast við fokheldi
   
-:Skilgreining:
- 
-
 :Skýring:
   
 

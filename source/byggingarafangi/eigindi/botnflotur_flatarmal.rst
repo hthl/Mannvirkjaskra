@@ -1,10 +1,10 @@
 Flatarmál botnflatar
 ~~~~~~~~~~~~~~~~~~~~
   
- .. todo::
-   Í vinnslu
-  
-:Skilgreining:
+.. admonition:: Skilgreining
+    :class: skilgreining
+    
+    Flatarmál botnflatar er myndað af rýmum byggingaráfangans
  
 
 :Skýring:

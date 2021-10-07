@@ -1,11 +1,11 @@
 Brúttó rúmmál
 ~~~~~~~~~~~~~
   
- .. todo::
-    Í vinnslu
+.. admonition:: Skilgreining
+    :class: skilgreining
+    
+    Brúttó rúmmál byggingaráfanga er myndað af rýmum hans, eða skráð sérstaklega ef upplýsingar um rými vantar
 
-:Skilgreining:
- 
 
 :Skýring:
   
