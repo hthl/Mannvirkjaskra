@@ -1,7 +1,5 @@
 .. _merking:
 
-.. todo::
-  Skilgreining rekstrareiningar er í vinnslu
 
 Merking
 ==================================
@@ -15,7 +13,7 @@ Skilgreining
 .. admonition:: Skilgreining
     :class: skilgreining
     
-    „Merking er texti sem auðkennir og aðgreinir notkunareiningar sem tengjast sama staðfangi“
+    Merking er texti sem auðkennir og aðgreinir notkunareiningar sem tengjast sama staðfangi
     
 Hlutverk
 --------
