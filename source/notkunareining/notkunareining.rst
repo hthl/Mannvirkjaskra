@@ -1,8 +1,5 @@
 .. _notkunareining:
 
-.. todo::
-  Skilgreining rekstrareiningar er í vinnslu
-
 Notkunareining
 ===============
 
@@ -19,13 +16,6 @@ Skýring
   Notkunareining er starfsemi, eða notkun, sem skipulagsyfirvöld hafa heimilað á landeign og/eða í mannvirkjum. t.d íbúð, verslun, skrifstofa, torfærubraut eða náma.
   Notkunareiningar uppfylla allar kröfur til að geta staðið sem sjálfstæð fasteign en jafnframt geta margar notkunareiningar verið ein fasteign.
   
-.. todo::
-  Mætti taka til umræðu.
-  Tengjast ekki allar Notkunareiningar mannvirkjum ? Nei, dæmi eru um annað, þar sem hlutfallstala í lóð er skráð beint, en ekki útreiknuð.
-  Hvaða starfsemi er það sem samþykkt er á landi sem tengist ekki mannvirkjum? Bygingarreitur / fasteignaréttur ?
-  Mannvirki er "framkvæmd"; hvaða framkvæmdir eru ekki mannvirki? fasteignaréttur
-  Á hverju byggjast rekstrareiningar á landi sem ekki hafa mannvirki ?
- 
 
 Eigindi
 ----------------
