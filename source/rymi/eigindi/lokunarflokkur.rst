@@ -4,8 +4,8 @@ Lokunarflokkur
   
 .. admonition:: Skilgreining
     
-  Mannvirki eru flokkuð í þrjá flokka sem táknaðir eru með bókstöfunum A, B og C. 
-  |br| **Lokunarflokkur A** merkir lokað mannvirki eða lokað rými í opnu mannvirki. 
+  Lokunarflokkar rýma eru táknaðir eru með bókstöfunum A, B og C. 
+  |br| **Lokunarflokkur A** merkir lokað rými. 
   |br| **Lokunarflokkur B** merkir lokað rými að ofan en opið á hliðum að hluta eða öllu leyti. 
   |br| **Lokunarflokkur C** merkir rými opið að ofan.
 
