@@ -32,8 +32,6 @@ Eigindi
    eigindi/lysing.rst
    eigindi/flokkun.rst
    eigindi/botn_flatarmal.rst
-   eigindi/salarhaed_min.rst
-   eigindi/salarhaed_max.rst
    eigindi/milliflotur_flatarmal.rst
    eigindi/bruttoflotur.rst
    eigindi/bruttorummal.rst
