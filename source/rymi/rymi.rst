@@ -30,6 +30,8 @@ Eigindi
    eigindi/milliflotur_flatarmal.rst
    eigindi/stigar_flatarmal.rst
    eigindi/birt_flatarmal.rst
+   eigindi/salarhaed_min.rst
+   eigindi/salarhaed_max.rst
    eigindi/bruttorummal.rst
    eigindi/skiptarummal.rst
    eigindi/reiknitala_skiptarummals.rst
