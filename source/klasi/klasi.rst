@@ -20,7 +20,7 @@ Skilgreining
    
 Hlutverk
 --------
-  Hlutverk klasa er að afmarka þá byggingaráfanga sem eru hafa eignatengingar sín á milli sem krefjast þess að eignarhlutfall í þeim sé reiknaði sem hlutfall af einni heild.
+  Hlutverk klasa er að afmarka þá byggingaráfanga sem hafa eignatengingar sín á milli sem krefjast þess að eignarhlutfall í þeim sé reiknaði sem hlutfall af einni heild.
  
 Eigindi
 -------------
